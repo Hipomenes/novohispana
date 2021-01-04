@@ -2,10 +2,10 @@
 remote_theme: daattali/beautiful-jekyll@5.0.0
 
 # Name of website
-title: Novohispana
+title: Fiesta y artificio
 
 # Short description of your site
-description: La Nueva España en su literatura
+description: La literatura del México colonial
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -30,10 +30,13 @@ navbar-links:
     - General Policies: ""
     - Courses Grading: ""
     - Assignments: ""
+    - Resources: "resources"
   Readings: "syllabus"
   Schedule: "calendar"
-  Resources: "resources"
   Blog: "blog"
+  Museum: 
+    - Spring 2021: "museum-spring-2021"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -87,7 +90,7 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
-  spotify: yourname
+  spotify: https://open.spotify.com/playlist/3Cw2zYCs6r1VnJLWCm2cI4?si=Z4VoBQCLSoKbgFeXqZSXpA
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
