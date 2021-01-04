@@ -2,10 +2,10 @@
 remote_theme: daattali/beautiful-jekyll@5.0.0 to your _config.yml
 
 # Name of website
-title: UTOPÍA / CONTRA-UTOPÍA
+title: Novohispana
 
 # Short description of your site
-description: El pensamiento utópico en Hispanoamérica colonial
+description: Literatura y cultura novohispana
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -69,7 +69,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: DHC
+  name: David H. Colmenares
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
