@@ -2,10 +2,10 @@
 remote_theme: daattali/beautiful-jekyll@5.0.0
 
 # Name of website
-title: Fiestas de artificio
+title: Fiesta y enigma
 
 # Short description of your site
-description: Literatura e imagen en el México virreinal
+description: La literatura del México virreinal
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -76,7 +76,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-# rss: true
+  rss: true
   email: "dhcg@bu.edu"
 #  facebook: memic
 #  twitter: AndMedieval
@@ -86,9 +86,9 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
+  youtube: user/novohispana
   spotify: palinuro/playlist/3Cw2zYCs6r1VnJLWCm2cI4?si=Z4VoBQCLSoKbgFeXqZSXpA
-#  telephone: +14159998888
+#  telephone: https://bostonu.zoom.us/j/7269706673
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
