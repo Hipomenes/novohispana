@@ -6,11 +6,12 @@ bigimg: /img/4partes.jpg
 
 
 
+
 # Semana 1
 
 ## Visiones crepusculares de la Nueva España
 
-Comenzamos el semestre con dos lecturas que ofrecen miradas globales sobre la Nueva España en sus últimos años. El primero es un capítulo del [*Ensayo político de la Nueva España*](), del científico y explorador prusiano Alexander von Humboldt, publicado por primera vez en francés en 1811 y en español en 1822. El *Ensayo* describe la situación económica y social de México en víspera de la Independencia. El segundo texto es una selección de los [*Prólogos a la Biblioteca Mexicana*](), del sabio novohispano Juan José Eguiara y Eguren. Su *Biblioteca mexicana* fue uno de los primeros intentos de sintetizar la producción cultural y literaria del México colonial.
+Comenzamos el curso con dos lecturas que ofrecen miradas de conjunto sobre la Nueva España, en sus últimos años. El primero texto es un capítulo del [*Ensayo político de la Nueva España*](), del científico y explorador prusiano Alexander von Humboldt. Publicado por primera vez en francés en 1811 y en español en 1822, el *Ensayo* ofrece un cuadro detallado sobre la economía y la sociedad de México en la víspera de la Indepedencia. Para la segunda sesión, leeremos una selección de ls prólogos a la [*Bibliotheca Mexicana*](), obra escrita por el sabio novohispano Juan José Eguiara y Eguren. La *Bibliotheca* fue uno de los primeros intentos de sintetizar la totalidad de la producción cultural y literaria del México colonial, ofreciendo así la primera historia intelectual de la Nueva España.
 
 # Semana 2
 
@@ -40,9 +41,8 @@ Comenzamos el semestre con dos lecturas que ofrecen miradas globales sobre la Nu
 
 ## Vidas arrobadas, vidas conventuales
 
-- Vida  de  la  venerable  Catarina  de  San  Juan
-- Vetancour, *Menologio franciscano*
-- Pintura de monjas coronadas
+![](https://www.letraslibres.com/sites/default/files/files6/files/img_art_10461_2886.jpg)
+La vida coventual fue uno de las instituciones sociales más importantes de la Nueva España. En la primera sesión, estudiaremos esta institución y sus prácticas culturales a partir de un género pictórico muy popular en la América española: la pintura de monjas coronadas. Para entender el significado de estas imágenes, acudiremos a un estudio general sobre la vida conventual en México. En la segunda sesión, estudiaremos el fenómeno a partir de sus fuentes, mediante las populares hagiografías, principalmente de monjas, como la *Vida de la venerable Catarina de San Juana*, así como diversas vidas reunidas en el *Menologio franciscano* de Agustín de Vetancour.
 
 # Semana x
 
