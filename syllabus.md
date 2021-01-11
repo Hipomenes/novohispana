@@ -44,7 +44,7 @@ Comenzamos el curso con dos lecturas que ofrecen miradas de conjunto sobre la Nu
 La vida coventual fue uno de las instituciones sociales más importantes de la Nueva España. En la primera sesión, estudiaremos esta institución y sus prácticas culturales a partir de un género pictórico muy popular en la América española: los [retratos de monjas coronadas](https://www.letraslibres.com/mexico-espana/monjas-coronadas-una-exposicion-pintura-novohispana). Para entender el significado de este género novohispano, comenzaremos leyendo un ensayo visual de Josefina Muriel titulado ["Los conventos de monjas en la sociedad virreinal"](https://drive.google.com/file/d/1IeKalbKkY1AmQv_tKxQMpRuIijg02wdB/view?usp=sharing), seguido del ensayo ["Monjas coronadas"](https://drive.google.com/file/d/1QwWesZYVviKxC3QKGaOl7EBIYS_2b25R/view?usp=sharing) de Rogelio Ruiz Gomar. 
 En la segunda sesión, estudiaremos el fenómeno a partir de fuentes escritas, mediante populares vidas de religiosas y regiliosos, como la *Vida de la venerable Catarina de San Juana*, así como diversas vidas reunidas en el *Menologio franciscano* de Agustín de Vetancour.
 
-{: .box-note}
+{: .box-warning}
 **Palabras clave:** Hagiografía, mística, órdenes religiosas.
 
 # Semana x
