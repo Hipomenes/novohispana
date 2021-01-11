@@ -7,7 +7,7 @@ bigimg: /img/4partes.jpg
 
 
 # Table of Contents
-1. [Example](#semana1)
+1. [Example](#semanax)
 
 # Semana 1
 
