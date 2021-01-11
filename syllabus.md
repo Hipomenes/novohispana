@@ -56,3 +56,8 @@ Leeremos la [*Vida de la venerable Catherina de San Juan*](https://drive.google.
 ## Toros, cañas, y otros sacramentos: la fiesta novohispana
 
 Esta semana ahondaremos en el sentido antropológico y social de la fiesta novohispana. Para ello comenzamos un informativo artículo de [Pilar Gonzalbo]() sobre el calendario de las fiestas litúrgicas en la Nueva España. Nos concentraremos entonces en el poema [*Fiestas de toros, juegos de cañas*](), escrito por María Estrada de Medinilla para referir una gran fiesta pública en 1641. Medinilla es la primera poetiza mexicana de la que se conserva un buen número de obras y su poema-relacióm describe con mucho detalle una celebración civil típica de mediados del siglo XVII. Para la segunda sesión, leeremos un fragmento del diario del viajero italiano [Giovanni Francesco Gemelli Careri]() (1651–1725), quien en su viaje al rededor del mundo (publicado originalmente en 1699) visitó la ciudad de México. El diario es un documento extraordinario, que nos permite evocar la vida cotidiana y la omnipresencia de la fiesta en el espacio público novohispano. Su lectura nos servirá como punto de partida para discutir las ideas sobre el "ethos barroco" del filósofo ecuatoriano-mexicano [Bolívar Echeverría]().
+
+{: .box-warning}
+**Palabras clave:** Corpus Christi, tauromaquia, "moros y cristianos", fiesta barroca, género "Relación de Fiestas".
+
+
