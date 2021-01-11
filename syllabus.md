@@ -6,11 +6,14 @@ bigimg: /img/4partes.jpg
 
 
 
+# Table of Contents
+1. [Example](#semana1)
+
 # Semana 1
 
 ## Visiones crepusculares de la Nueva España
 
-Comenzamos el curso con dos lecturas que ofrecen miradas de conjunto sobre la Nueva España, en sus últimos años. El primero texto es un capítulo del [*Ensayo político de la Nueva España*](), del científico y explorador prusiano Alexander von Humboldt. Publicado por primera vez en francés en 1811 y en español en 1822, el *Ensayo* ofrece un cuadro detallado sobre la economía y la sociedad de México en la víspera de la Indepedencia. Para la segunda sesión, leeremos una selección de ls prólogos a la [*Bibliotheca Mexicana*](), obra escrita por el sabio novohispano Juan José Eguiara y Eguren. La *Bibliotheca* fue uno de los primeros intentos de sintetizar la totalidad de la producción cultural y literaria del México colonial, ofreciendo así la primera historia intelectual de la Nueva España.
+Comenzamos el curso con dos lecturas que ofrecen miradas de conjunto sobre la Nueva España, en sus últimos años. El primero texto es un capítulo del [*Ensayo político de la Nueva España*](), del científico y explorador prusiano Alexander von Humboldt. Publicado por primera vez en francés en 1811 y en español en 1822, el *Ensayo* ofrece un cuadro detallado sobre la economía y la sociedad de México en la víspera de la Indepedencia. Para la segunda sesión, leeremos una selección de los prólogos a la [*Bibliotheca Mexicana*](), obra escrita por el sabio novohispano Juan José Eguiara y Eguren (1696-1763), uno de los primeros intentos de sintetizar la totalidad de la producción cultural y literaria del México colonial. Leeremos también una selección de la [*Biblioteca Hispano Americana Setentrional*]() de José Mariano Beristain y Souza (1756-1817), continuador de la labor de Eguiara y Eguren y autor de una de las primeras historias intelectuales publicadas en México.
 
 # Semana 2
 
