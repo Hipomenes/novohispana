@@ -1,7 +1,38 @@
 ---
 layout: page
 title: Calendar
-subtitle: Workshops and events
+subtitle: Spring 2021
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZnQxNjhubzBjOG04Y2ljYnR2MGtla2R0dGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%237986CB&amp;showTitle=1&amp;showTabs=0&amp;showPrint=0" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+# Calendario 
+
+| Wk | Date | Reading | Assignment | Note|
+|:------:|:------|:--------:|:------:|----:|
+|     I | 01/26 | Intro | | |
+|       | 01/28 | Humboldt; Egura y Eguren| | |
+|    II | 02/02 | | | |
+|       | 02/04 | | | |
+| III   | 02/09 | | | |
+|       | 02/11 | | | |
+|  IV   | 02/16 | | | |
+|       | 02/18 | | | |
+| V     | 02/23 | | | |
+|       | 02/25 | | | |
+| VI    | 03/02 | | | |
+|       | 03/04 | | | |
+| VII   | 03/09 | | | |
+|       | 03/11 | | | |
+| VIII  | 03/16 | | | |
+|       | 03/18 | | | |
+|  IX   | 03/23 | | | |
+|       | 03/25 | | | |
+| X     | 03/30 | | | |
+|       | 04/01 | | | |
+| XI    | 04/06 | | | |
+|       | 04/08 | | | |
+| XII   | 04/13 | | | |
+|       | 04/15 | | | |
+|  XIII | 04/20 | | | |
+|       | 04/22 | | | |
+|  XIV  | 04/27 | | | |
+|       | 04/29 | | | |
