@@ -4,18 +4,17 @@ title: Temario
 bigimg: /img/4partes.jpg
 ---
 
+
+
+
 * TOC
 {:toc}
 
-# Semana 1
-
-## Visiones crepusculares de la Nueva España
+# 1. Visiones crepusculares de la Nueva España
 
 Comenzamos el curso con dos lecturas que ofrecen miradas de conjunto sobre el virreinato de la Nueva España (1519-1821) en sus últimos años. La primera es una selección del [*Ensayo político sobre el reino de la Nueva España*]() del científico y explorador prusiano Alexander von Humboldt. Publicado por primera vez en francés en 1811 y en español en 1822, el *Ensayo* ofrece un cuadro detallado sobre la economía, la sociedad y la cultura de México en la víspera de la Indepedencia de España. A continuación leeremos una apología de los "ingenios americanos" sacada de la [*Bibliotheca Mexicana*](), obra del sabio novohispano Juan José Eguiara y Eguren (1696-1763). Esta obra es uno de los primeros intentos de sintetizar la totalidad de la producción cultural y literaria del México colonial. Finalmente, mira con atención el [siguiente mapa](https://upload.wikimedia.org/wikipedia/commons/6/60/1811_Humboldt_Map_of_Mexico%2C_Texas%2C_Louisiana%2C_and_Florida_-_Geographicus_-_Mexique-humboldt-1811.jpg), incluído en el *Ensayo* de Humboldt.
 
-# Semana 2
-
-## La muy noble y leal Ciudad de México
+# 2. La muy noble y leal Ciudad de México
 
 - Cervantes de Salazar, [*Díalogos de 1554*]()
 - Bernando de Balbuena, [*Grandeza mexicana*]()
@@ -25,9 +24,7 @@ Comenzamos el curso con dos lecturas que ofrecen miradas de conjunto sobre el vi
 - José Antonio Villaseñor y Sánchez de la [Ciudad de México, 1753.]
 
 
-# Semana 3
-
-## Pintura de castas
+# 3. Pintura de castas
 
 Para familiarizarnos con el tema, puedes comenzar viendo [este video](https://youtu.be/yk6fAcqfvEk) (2 min) y mirando con atención [ésta pintura](https://drive.google.com/file/d/1vqXNRs7civ64zqYK4JRD3ivgxRNVKNeX/view?usp=sharing). Para la primera sesión, leeremos dos ensayos visuales: [«La sociedad de castas en la Nueva España»](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326827), de Jacques Lafaye y [«La fiebre de la imagen en la pintura de castas»](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326830), de Margarita Orellana.
 Pondremos especial atención en los testimonios de la época que aparecen en los ensayos, como los del viajero inglés Thomas Gage (c. 1603 - 1656), del escritor Mateo Rosas de Oquendo (¿1559? - 1612) y de Fernández de Lizardi (1776 – 1827), el primer novelista del México independiente.
@@ -93,10 +90,12 @@ Esta semana trabajaremos de manera independiente con los materiales disponibles 
 
 # Semana 13
 
-## La portentosa vida de la muerte
+## La portentosa
 
-# Semana 14
 
-## Memoria novohispana en el México moderno
+
+
+# 14. Memoria novohispana en el México moderno
 
 Concluímos nuestro semestre con una lectura que nos ayudará a pensar en el legado novohispano en el México (y Estados Unidos) moderno, legado olvidado o expresamente surpimido de las narrativas históricas que acompañaron la formación de los estados modernos de Norteamérica. Se trata del ensayo ["Memoria, paisaje, horizonte: Los jesuitas y la construcción de la nación mestiza"](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24318862) del antropólogo e historiador Alfanso Alfaro.
+
