@@ -4,6 +4,9 @@ title: Temario
 bigimg: /img/4partes.jpg
 ---
 
+* TOC
+{:toc}
+
 # Semana 1
 
 ## Visiones crepusculares de la Nueva España
