@@ -5,11 +5,10 @@ bigimg: /img/4partes.jpg
 ---
 
 
-
 # Índice 
 {: .no_toc}
 
-* TOC
+1. TOC
 {:toc}
 
 # Semana 1 
@@ -29,7 +28,7 @@ Comenzamos el curso con dos lecturas que ofrecen miradas de conjunto sobre el vi
 
 - José Antonio Villaseñor y Sánchez de la [Ciudad de México, 1753.]
 
-# Semana 3. 
+# Semana 3 
 
 ## Pigmentocracia: la ointura de castas
 
@@ -46,7 +45,6 @@ Esta semana ahondaremos en el sentido antropológico y social de la fiesta novoh
 
 {: .box-warning}
 **Palabras clave:** Corpus Christi, tauromaquia, "moros y cristianos", fiesta barroca, género "Relación de Fiestas".
-
 
 # Semana 5
 
