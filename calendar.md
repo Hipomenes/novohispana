@@ -1,17 +1,15 @@
 ---
 layout: page
-title: Calendar
+title: Schedule
 subtitle: Spring 2021
 ---
 
-# Calendario 
-
-| Wk | Date | Reading | Assignment | Note|
+ | Week | Date | Reading | Assignment | Notes|
 |:------:|:------|:--------:|:------:|----:|
 |     I | 01/26 | Intro | | |
 |       | 01/28 | Humboldt; Egura y Eguren| | |
-|    II | 02/02 | | | |
-|       | 02/04 | | | |
+|    II | 02/02 | Video, Lafaye, Orellana | | |
+|       | 02/04 | Rodilla, Correa, Sor Juana  | | |
 | III   | 02/09 | | | |
 |       | 02/11 | | | |
 |  IV   | 02/16 | | | |
