@@ -6,7 +6,8 @@ bigimg: /img/4partes.jpg
 
 
 
-# Índice {:.no_toc}
+# Índice 
+{: .no_toc}
 
 * TOC
 {:toc}
