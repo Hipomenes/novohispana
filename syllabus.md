@@ -6,6 +6,7 @@ bigimg: /img/4partes.jpg
 
 
 
+# Índice {:.no_toc}
 
 * TOC
 {:toc}
@@ -18,9 +19,10 @@ Comenzamos el curso con dos lecturas que ofrecen miradas de conjunto sobre el vi
 
 - Cervantes de Salazar, [*Díalogos de 1554*]()
 - Bernando de Balbuena, [*Grandeza mexicana*]()
-Omágenes 
-- José Antonio Villaseñor y Sánchez de la [Ciudad de México, 1753.]
 
+### Imágenes 
+
+- José Antonio Villaseñor y Sánchez de la [Ciudad de México, 1753.]
 
 # Semana 3. Pintura de castas
 
@@ -29,20 +31,19 @@ Pondremos especial atención en los testimonios de la época que aparecen en los
 Para la segunda sesión, leeremos [«Un Quevedo en Nueva España satiriza las castas»](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326829) de María José Rodilla y una selección de [villancicos de Sor Juana Inés de la Cruz](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326828).
 Además, debes mirar con detenimiento la serie de pinturas del pintor [Miguel Cabrera (1695 - 1769)](http://ablaevariteprobatum.blogspot.com/2013/04/miguel-cabrera-y-la-pintura-de-castas.html).
 
-# Semana 4. Fiestas novohispanas
+# Semana 4 La fiesta novohispana
 
 Esta semana ahondaremos en el sentido antropológico y social de la fiesta novohispana. Para ello comenzamos un informativo artículo de [Pilar Gonzalbo]() sobre el calendario de las fiestas litúrgicas en la Nueva España. Nos concentraremos entonces en el poema [*Fiestas de toros, juegos de cañas*](), escrito por María Estrada de Medinilla para referir una gran fiesta pública en 1641. Medinilla es la primera poetiza mexicana de la que se conserva un buen número de obras y su poema-relacióm describe con mucho detalle una celebración civil típica de mediados del siglo XVII. Para la segunda sesión, leeremos un fragmento del diario del viajero italiano [Giovanni Francesco Gemelli Careri]() (1651–1725), quien en su viaje al rededor del mundo (publicado originalmente en 1699) visitó la ciudad de México. El diario es un documento extraordinario, que nos permite evocar la vida cotidiana y la omnipresencia de la fiesta en el espacio público novohispano. Su lectura nos servirá como punto de partida para discutir las ideas sobre el "ethos barroco" del filósofo ecuatoriano-mexicano [Bolívar Echeverría]().
 
 {: .box-warning}
 **Palabras clave:** Corpus Christi, tauromaquia, "moros y cristianos", fiesta barroca, género "Relación de Fiestas".
 
+
 # Semana 5. "No hizo cosa igual con ninguna otra nación"
 
 Esta semana estudiaremos uno de los fenómenos más característicos de la vida cultural de la Nueva España, y cuyas consecuencias llegan hasta el día de hoy: el guadalupanismo. Para ello, leeremos  de los textos fundacionales del culto guadalupano, así como una selección de obras literarias de tema guadalupano. Para la primera sesión, leeremos algunos capítulos de [*La estrella del Norte de Mexico*](), publicada por el historiador jesuita Francisco de Florencia en 1688 (analizaremos también la [imagen](https://archive.org/details/laestrelladeelno00flor/page/n6/mode/1up) y la [portada de la edición origina](https://archive.org/details/laestrelladeelno00flor/page/n8/mode/1up)). En la segunda sesión tornamos nuestra atención a la poesía. Leeremos dos cálebres sonetos guadalupanos de Luis Sandoval de Zapata y Sor Juana Inés de la Cruz, así como una selección de [*La octava maravilla*]() de Francisco de Castro.
 
-# Semana 6
-
-## Vidas arrobadas, muertes coronadas 
+# Semana 6. Vidas arrobadas, muertes coronadas 
 
 La vida coventual fue uno de las instituciones sociales más importantes de la Nueva España. En la primera sesión, estudiaremos esta institución y sus prácticas culturales a partir de un género pictórico muy popular en la América española: los [retratos de monjas coronadas](https://www.letraslibres.com/mexico-espana/monjas-coronadas-una-exposicion-pintura-novohispana). Para entender el significado de este género novohispano, comenzaremos leyendo un ensayo visual de Josefina Muriel titulado [«Los conventos de monjas en la sociedad virreinal»](https://drive.google.com/file/d/1IeKalbKkY1AmQv_tKxQMpRuIijg02wdB/view?usp=sharing), seguido del ensayo [«Monjas coronadas»](https://drive.google.com/file/d/1QwWesZYVviKxC3QKGaOl7EBIYS_2b25R/view?usp=sharing) de Rogelio Ruiz Gomar. 
 En la segunda sesión, tornamos nuestra atención a algunas fuentes escritas, como las populares biografías de religiosas y regiliosos.
@@ -51,42 +52,26 @@ Leeremos la [*Vida de la venerable Catherina de San Juan*](https://drive.google.
 {: .box-warning}
 **Palabras clave:** Hagiografía, mística, órdenes religiosas, menologio.
 
-# Semana 7
-
-## Semana abierta
+# Semana 7. Semana abierta
 
 Esta semana trabajaremos de manera independiente con los materiales disponibles en la lista [Arte, literatura y cultura novohispana](https://youtube.com/playlist?list=PLiHNaBC9keLdsq7PzUJWptaxgfgjxM1sm). 
 
-# Semana 8
+# Semana 8. Juan Ruiz de Alarcón
 
-## Juan Ruiz de Alarcón
+# Semana 9. Las loas sacramentales de Sor Juana Inés de la Cruz
 
-# Semana 9 
-
-## Las loas sacramentales de Sor Juana Inés de la Cruz
-
-# Semana 10
-
-## Villancicos en el atrio y la plaza
+# Semana 10. Villancicos en el atrio y la plaza
 
 [Las castas en los villancicos de Sor Juana](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326828)
 
-# Semana 11
+# Semana 11. La poesía de Sor Juana 
 
-## La poesía de Sor Juana 
+# Semana 12. Los sirgueros de la virgen
 
-# Semana 12
+# Semana 13.  portentosa
 
-## Los sirgueros de la virgen
-
-# Semana 13
-
-## La portentosa
-
-
-
-
-# 14. Memoria novohispana en el México moderno
+# Semana 14. Memoria novohispana en el México moderno
 
 Concluímos nuestro semestre con una lectura que nos ayudará a pensar en el legado novohispano en el México (y Estados Unidos) moderno, legado olvidado o expresamente surpimido de las narrativas históricas que acompañaron la formación de los estados modernos de Norteamérica. Se trata del ensayo ["Memoria, paisaje, horizonte: Los jesuitas y la construcción de la nación mestiza"](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24318862) del antropólogo e historiador Alfanso Alfaro.
 
+--------------------
