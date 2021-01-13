@@ -5,18 +5,19 @@ bigimg: /img/4partes.jpg
 ---
 
 
-
 # Índice 
 {: .no_toc}
 
-* TOC
+1. TOC
 {:toc}
 
-# Semana 1. Visiones crepusculares de la Nueva España
+# Semana 1
+## Visiones crepusculares de la Nueva España
 
 Comenzamos el curso con dos lecturas que ofrecen miradas de conjunto sobre el virreinato de la Nueva España (1519-1821) en sus últimos años. La primera es una selección del [*Ensayo político sobre el reino de la Nueva España*]() del científico y explorador prusiano Alexander von Humboldt. Publicado por primera vez en francés en 1811 y en español en 1822, el *Ensayo* ofrece un cuadro detallado sobre la economía, la sociedad y la cultura de México en la víspera de la Indepedencia de España. A continuación leeremos una apología de los "ingenios americanos" sacada de la [*Bibliotheca Mexicana*](), obra del sabio novohispano Juan José Eguiara y Eguren (1696-1763). Esta obra es uno de los primeros intentos de sintetizar la totalidad de la producción cultural y literaria del México colonial. Finalmente, mira con atención el [siguiente mapa](https://upload.wikimedia.org/wikipedia/commons/6/60/1811_Humboldt_Map_of_Mexico%2C_Texas%2C_Louisiana%2C_and_Florida_-_Geographicus_-_Mexique-humboldt-1811.jpg), incluído en el *Ensayo* de Humboldt.
 
-# Semana 2. La muy noble y leal Ciudad de México
+# Semana 2
+## La muy noble y leal Ciudad de México
 
 - Cervantes de Salazar, [*Díalogos de 1554*]()
 - Bernando de Balbuena, [*Grandeza mexicana*]()
