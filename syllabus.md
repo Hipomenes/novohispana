@@ -10,7 +10,23 @@ bigimg: /img/4partes.jpg
 * TOC
 {:toc}
 
---- 
+hr.line15 {
+  border:0;
+	border-top: 4px double #8c8b8b;
+	text-align: center;
+  width:90%;
+}
+hr.line15:after {
+	content: '\002665';
+	display: inline-block;
+	position: relative;
+	top: -15px;
+	padding: 0 10px;
+	background: #f0f0f0;
+	color: #8c8b8b;
+	font-size: 18px;
+  border:0;
+} 
 
 # Semana 1 
 
