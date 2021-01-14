@@ -10,7 +10,10 @@ bigimg: /img/4partes.jpg
 * TOC
 {:toc}
 
+<br>
 <hr>
+<br>
+<br>
 
 # Semana 1 
 
