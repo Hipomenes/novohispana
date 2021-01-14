@@ -4,12 +4,13 @@ title: Readings
 bigimg: /img/4partes.jpg
 ---
 
-
-# Índice 
+# Unidades  
 {: .no_toc}
 
-1. TOC
+* TOC
 {:toc}
+
+--- 
 
 # Semana 1 
 
@@ -24,22 +25,26 @@ Comenzamos el curso con dos lecturas que ofrecen miradas de conjunto sobre el vi
 - Cervantes de Salazar, [*Díalogos de 1554*]()
 - Bernando de Balbuena, [*Grandeza mexicana*]()
 
+{: .box-warning}
+**Palabras clave:** *Laudatio urbis*, humanismo, mundialización
+
 ### Imágenes 
 
 - José Antonio Villaseñor y Sánchez de la [Ciudad de México, 1753.]
 
 # Semana 3 
 
-## Pigmentocracia: la ointura de castas
+## La pigmentocracia novohispana
 
 Para familiarizarnos con el tema, puedes comenzar viendo [este video](https://youtu.be/yk6fAcqfvEk) (2 min) y mirando con atención [ésta pintura](https://drive.google.com/file/d/1vqXNRs7civ64zqYK4JRD3ivgxRNVKNeX/view?usp=sharing). Para la primera sesión, leeremos dos ensayos visuales: [«La sociedad de castas en la Nueva España»](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326827), de Jacques Lafaye y [«La fiebre de la imagen en la pintura de castas»](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326830), de Margarita Orellana.
 Pondremos especial atención en los testimonios de la época que aparecen en los ensayos, como los del viajero inglés Thomas Gage (c. 1603 - 1656), del escritor Mateo Rosas de Oquendo (¿1559? - 1612) y de Fernández de Lizardi (1776 – 1827), el primer novelista del México independiente.
-Para la segunda sesión, leeremos [«Un Quevedo en Nueva España satiriza las castas»](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326829) de María José Rodilla y una selección de [villancicos de Sor Juana Inés de la Cruz](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326828).
+Para la segunda sesión, leeremos [«Un Quevedo en Nueva España satiriza las castas»](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326829) de María José Rodilla y una selección de [villancicos de Sor Juana Inés de la Cruz](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326828)
+.
 Además, debes mirar con detenimiento la serie de pinturas del pintor [Miguel Cabrera (1695 - 1769)](http://ablaevariteprobatum.blogspot.com/2013/04/miguel-cabrera-y-la-pintura-de-castas.html).
 
 # Semana 4
 
-## La fiesta novohispana
+## Toros, cañas y sacramentos
 
 Esta semana ahondaremos en el sentido antropológico y social de la fiesta novohispana. Para ello comenzamos un informativo artículo de [Pilar Gonzalbo]() sobre el calendario de las fiestas litúrgicas en la Nueva España. Nos concentraremos entonces en el poema [*Fiestas de toros, juegos de cañas*](), escrito por María Estrada de Medinilla para referir una gran fiesta pública en 1641. Medinilla es la primera poetiza mexicana de la que se conserva un buen número de obras y su poema-relacióm describe con mucho detalle una celebración civil típica de mediados del siglo XVII. Para la segunda sesión, leeremos un fragmento del diario del viajero italiano [Giovanni Francesco Gemelli Careri]() (1651–1725), quien en su viaje al rededor del mundo (publicado originalmente en 1699) visitó la ciudad de México. El diario es un documento extraordinario, que nos permite evocar la vida cotidiana y la omnipresencia de la fiesta en el espacio público novohispano. Su lectura nos servirá como punto de partida para discutir las ideas sobre el "ethos barroco" del filósofo ecuatoriano-mexicano [Bolívar Echeverría]().
 
@@ -50,7 +55,7 @@ Esta semana ahondaremos en el sentido antropológico y social de la fiesta novoh
 
 ## "No hizo cosa igual con ninguna otra nación"
 
-Esta semana estudiaremos uno de los fenómenos más característicos de la vida cultural de la Nueva España, y cuyas consecuencias llegan hasta el día de hoy: el guadalupanismo. Para ello, leeremos  de los textos fundacionales del culto guadalupano, así como una selección de obras literarias de tema guadalupano. Para la primera sesión, leeremos algunos capítulos de [*La estrella del Norte de Mexico*](), publicada por el historiador jesuita Francisco de Florencia en 1688 (analizaremos también la [imagen](https://archive.org/details/laestrelladeelno00flor/page/n6/mode/1up) y la [portada de la edición origina](https://archive.org/details/laestrelladeelno00flor/page/n8/mode/1up)). En la segunda sesión tornamos nuestra atención a la poesía. Leeremos dos cálebres sonetos guadalupanos de Luis Sandoval de Zapata y Sor Juana Inés de la Cruz, así como una selección de [*La octava maravilla*]() de Francisco de Castro.
+Esta semana estudiaremos uno de los fenómenos más característicos de la vida cultural de la Nueva España, y cuyas consecuencias llegan hasta el día de hoy: el guadalupanismo. Para ello, leeremos  de los textos fundacionales del culto guadalupano, centrado en la veneración de una imagen pretendidamente milagrosa, así como una selección de obras literarias de tema guadalupano. Para la primera sesión, leeremos algunos capítulos de [*La estrella del Norte de Mexico*](), publicada por el historiador jesuita Francisco de Florencia en 1688 (analizaremos también la [imagen](https://archive.org/details/laestrelladeelno00flor/page/n6/mode/1up) y la [portada de la edición origina](https://archive.org/details/laestrelladeelno00flor/page/n8/mode/1up)). En la segunda sesión tornamos nuestra atención a la poesía. Leeremos dos cálebres sonetos guadalupanos de Luis Sandoval de Zapata y Sor Juana Inés de la Cruz, así como una selección de [*La octava maravilla*]() de Francisco de Castro.
 
 # Semana 6
 
@@ -67,7 +72,7 @@ Leeremos la [*Vida de la venerable Catherina de San Juan*](https://drive.google.
 
 ## Semana abierta
 
-Esta semana trabajaremos de manera independiente con los materiales disponibles en la lista [Arte, literatura y cultura novohispana](https://youtube.com/playlist?list=PLiHNaBC9keLdsq7PzUJWptaxgfgjxM1sm). 
+Esta semana trabajaremos de manera independiente con los materiales disponibles en la lista [Arte, literatura y cultura novohispana](https://youtube.com/playlist?list=PLiHNaBC9keLdsq7PzUJWptaxgfgjxM1sm) de Youtube.
 
 # Semana 8
 
@@ -75,17 +80,17 @@ Esta semana trabajaremos de manera independiente con los materiales disponibles 
 
 # Semana 9
 
-## Las loas sacramentales de Sor Juana Inés de la Cruz
+## Las loas y autos sacramentales de Sor Juana
 
 # Semana 10
 
 ## Villancicos en el atrio y la plaza
 
-[Las castas en los villancicos de Sor Juana](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326828)
+[Las castas en los villancicos de Sor Juana](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326828).
 
 # Semana 11
 
-## La poesía de Sor Juana 
+## Una casuística de los afectos 
 
 # Semana 12
 
@@ -99,4 +104,4 @@ Esta semana trabajaremos de manera independiente con los materiales disponibles 
 
 ## Memoria novohispana en el México moderno
 
-Concluímos nuestro semestre con una lectura que nos ayudará a pensar en el legado novohispano en el México (y Estados Unidos) moderno, legado olvidado o expresamente surpimido de las narrativas históricas que acompañaron la formación de los estados modernos de Norteamérica. Se trata del ensayo ["Memoria, paisaje, horizonte: Los jesuitas y la construcción de la nación mestiza"](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24318862) del antropólogo e historiador Alfanso Alfaro.
+Concluímos nuestro semestre reflexionando sobre el legado novohispano en el México (y ¿Estados Unidos?) moderno, un legado olvidado o expresamente surpimido de las narrativas históricas que acompañaron la formación del moderno Estado nación. Para ello, leeremos el ensayo ["Memoria, paisaje, horizonte: los jesuitas y la construcción de la nación mestiza"](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24318862) del antropólogo e historiador Alfonso Alfaro.
