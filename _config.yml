@@ -179,7 +179,7 @@ paginate: 5
 kramdown:
   input: GFM
   auto_ids          : true
-  toc_levels        : [2]
+  toc_levels        : [1]
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
