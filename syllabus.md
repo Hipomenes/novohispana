@@ -10,13 +10,15 @@ bigimg: /img/4partes.jpg
 * TOC
 {:toc}
 
-hr.line15 {
+<hr>
+
+hr {
   border:0;
 	border-top: 4px double #8c8b8b;
 	text-align: center;
   width:90%;
 }
-hr.line15:after {
+hr:after {
 	content: '\002665';
 	display: inline-block;
 	position: relative;
