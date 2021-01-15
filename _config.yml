@@ -76,7 +76,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+# rss: true
   email: "dhcg@bu.edu"
 #  facebook: memic
 #  twitter: AndMedieval
@@ -86,7 +86,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-  youtube: user/novohispana
+  youtube: playlist?list=PLiHNaBC9keLdsq7PzUJWptaxgfgjxM1sm 
   spotify: palinuro/playlist/3Cw2zYCs6r1VnJLWCm2cI4?si=Z4VoBQCLSoKbgFeXqZSXpA
   zoom: 97105967650?pwd=Qmd6d3RNaCt0QTN4ZnVQcjlybXg0UT09
 #  telephone: bostonu.zoom.us/j/7269706673
