@@ -26,14 +26,14 @@ paginate_path: "/blog/page:num/"
 # List of links in the navigation bar
 navbar-links:
   About: "aboutus"
-  Course:
+  <i class="fas fa-graduation-cap"></i> Course:
     - General Policies: ""
     - Courses Grading: ""
     - Assignments: ""
     - Resources: "resources"
-  Readings: "syllabus"
-  Schedule: "calendar"
-  <i class="fas fa-blog"></i> Blog: "blog"
+  <i class="fas fa-book-open"></i> Readings: "syllabus"
+  <i class="far fa-calendar-alt"></i> Schedule: "calendar"
+  Blog: "blog"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
