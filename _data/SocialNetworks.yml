@@ -22,10 +22,10 @@ twitter:
   urlTemplate: "https://twitter.com/{value}"
   icon: "fab fa-twitter"
 
-reddit:
-  name: "Reddit"
-  urlTemplate: "https://reddit.com/u/{value}"
-  icon: "fab fa-reddit"
+zoom:
+  name: "Zoom"
+  urlTemplate: "https://bostonu.zoom.us/j/{value}"
+  icon: "fas fa-video"
 
 email:
   name: "Email me"
