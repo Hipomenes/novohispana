@@ -4,7 +4,7 @@ title: Schedule
 subtitle: Spring 2021
 ---
 
-##
+
 
 | Wk | Date | Reading | Assignment | Note|
 |:------:|:------|:--------:|:------:|----:|
@@ -23,7 +23,7 @@ subtitle: Spring 2021
 | VII*  | 03/09 | | | Open Week |
 |       | 03/11 | | | |
 | VIII  | 03/16 | | | |
-|       | 03/18 | **Wellness Day** | | |
+|       | <s>03/18</s> |  | | Wellness Day|
 |  IX   | 03/23 | | | |
 |       | 03/25 | | | |
 | X     | 03/30 | | | |
