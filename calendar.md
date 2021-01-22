@@ -4,7 +4,9 @@ title: Schedule
 subtitle: Spring 2021
 ---
 
- | Week | Date | Reading | Assignment | Notes|
+##
+
+| Wk | Date | Reading | Assignment | Note|
 |:------:|:------|:--------:|:------:|----:|
 |     I | 01/26 | Intro | | |
 |       | 01/28 | Humboldt; Egura y Eguren| | |
@@ -18,10 +20,10 @@ subtitle: Spring 2021
 |       | 02/25 | | | |
 | VI    | 03/02 | | | |
 |       | 03/04 | | | |
-| VII   | 03/09 | | | |
+| VII*  | 03/09 | | | Open Week |
 |       | 03/11 | | | |
 | VIII  | 03/16 | | | |
-|       | 03/18 | | | |
+|       | 03/18 | **Wellness Day** | | |
 |  IX   | 03/23 | | | |
 |       | 03/25 | | | |
 | X     | 03/30 | | | |
