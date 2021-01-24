@@ -638,7 +638,7 @@ table tr {
   padding: 0;
 }
 table tr:nth-child(2n) {
-  background-color: #cddbfb;
+  background-color: #e2e2e2;
 }
 table tr th {
   font-weight: bold;
