@@ -4,14 +4,14 @@ title: Schedule
 subtitle: Spring 2021
 ---
 
-
+<br>
 
 | Wk | Date | Reading | Assignment | Presentation|
 |:------:|:------|:--------:|:------:|----:|
 |     I | 01/26 | Intro | | |
 |       | 01/28 | Humboldt; Egura y Eguren| | |
-|    II | 02/02 | Video, Lafaye, Orellana | | Keywords: ______ &  _____|
-|       | 02/04 | Rodilla, Correa, Sor Juana  | Annotation | Kickoff: _______ |
+|    II | 02/02 | Video, Lafaye, Orellana | | Keywords: ___  & ___ |
+|       | 02/04 | Rodilla, Correa, Sor Juana  | Annotation | Kickoff: ___ |
 | III   | 02/09 | | 1st | |
 |       | 02/11 | | | |
 |  IV   | 02/16 | | | |
@@ -36,4 +36,3 @@ subtitle: Spring 2021
 |       | 04/22 | |  | |
 |  XIV  | 04/27 | | Final Paper Workshop  | |
 |       | 04/29 | | | |
-
