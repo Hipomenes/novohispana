@@ -21,19 +21,28 @@ bigimg: /img/4partes.jpg
 
 Comenzamos el curso con dos lecturas que ofrecen miradas de conjunto sobre el virreinato de la Nueva España (1519-1821) en sus últimos años. La primera es una selección del [*Ensayo político sobre el reino de la Nueva España*]() del científico y explorador prusiano Alexander von Humboldt. Publicado por primera vez en francés en 1811 y en español en 1822, el *Ensayo* ofrece un cuadro detallado sobre la economía, la sociedad y la cultura de México en la víspera de la Indepedencia de España. A continuación leeremos una apología de los "ingenios americanos" sacada de la [*Bibliotheca Mexicana*](), obra del sabio novohispano Juan José Eguiara y Eguren (1696-1763). Esta obra es uno de los primeros intentos de sintetizar la totalidad de la producción cultural y literaria del México colonial. Finalmente, mira con atención el [siguiente mapa](https://upload.wikimedia.org/wikipedia/commons/6/60/1811_Humboldt_Map_of_Mexico%2C_Texas%2C_Louisiana%2C_and_Florida_-_Geographicus_-_Mexique-humboldt-1811.jpg), incluído en el *Ensayo* de Humboldt.
 
+### Notas
+
+Utilizar 
+
 # Semana 2 
 
 ## La muy noble y leal Ciudad de México
+
+Comenzaremos leyendo un ensayo de María de León Cázares, ["A cielo abierto: la convivencia en plazas y calles"](https://drive.google.com/file/d/1PlmL8H6Nv0Lmyv8ar0HhKaNO-X8fo9we/view?usp=sharing), publicado en la *Historia de la vida privada en México*. Este ensayo contiene una selección de fuentes primarias de la época que describen diversos episodios importantes acontecidos en la ciudad de México: recomiendo que leas estas selecciones (indicadas en un recuadro) con atención, después de haber leído el cuerpo del ensayo. 
 
 - Cervantes de Salazar, [*Díalogos de 1554*]()
 - Bernando de Balbuena, [*Grandeza mexicana*]()
 
 {: .box-warning}
-**Palabras clave:** *Laudatio urbis*, humanismo, mundialización
+**Palabras clave:** *Laudatio urbis*, humanismo, lo público y lo privado
 
-### Imágenes 
+### Plan de clase 
 
-- José Antonio Villaseñor y Sánchez de la [Ciudad de México, 1753.]
+- Utilizar mapa de José Antonio Villaseñor y Sánchez de la [Ciudad de México, 1753.] 
+- Reflexionar sobre el género de la *latudatio urbis*
+
+<br>
 
 # Semana 3 
 
@@ -60,6 +69,9 @@ Esta semana ahondaremos en el sentido antropológico y social de la fiesta novoh
 
 Esta semana estudiaremos uno de los fenómenos más característicos de la vida cultural de la Nueva España, y cuyas consecuencias llegan hasta el día de hoy: el guadalupanismo. Para ello, leeremos  de los textos fundacionales del culto guadalupano, centrado en la veneración de una imagen pretendidamente milagrosa, así como una selección de obras literarias de tema guadalupano. Para la primera sesión, leeremos algunos capítulos de [*La estrella del Norte de Mexico*](), publicada por el historiador jesuita Francisco de Florencia en 1688 (analizaremos también la [imagen](https://archive.org/details/laestrelladeelno00flor/page/n6/mode/1up) y la [portada de la edición origina](https://archive.org/details/laestrelladeelno00flor/page/n8/mode/1up)). En la segunda sesión tornamos nuestra atención a la poesía. Leeremos dos cálebres sonetos guadalupanos de Luis Sandoval de Zapata y Sor Juana Inés de la Cruz, así como una selección de [*La octava maravilla*]() de Francisco de Castro.
 
+- Octava maravilla, Vejamen, Primer Romance, Segundo Romance, Canto 1, i-xviiy canto III, i-xxxii. 
+
+
 # Semana 6
 
 ## Vidas arrobadas, muertes coronadas 
@@ -75,7 +87,7 @@ Leeremos la [*Vida de la venerable Catherina de San Juan*](https://drive.google.
 
 ## Semana abierta
 
-Esta semana trabajaremos de manera independiente con los materiales disponibles en la lista [Arte, literatura y cultura novohispana](https://youtube.com/playlist?list=PLiHNaBC9keLdsq7PzUJWptaxgfgjxM1sm) de Youtube.
+Esta semana trabajaremos de manera independiente con los materiales disponibles en la lista [Arte, literatura y cultura novohispana](https://youtube.com/playlist?list=PLiHNaBC9keLdsq7PzUJWptaxgfgjxM1sm) de Youtube. En esta lista encontrarás una gran cantidad de conferencias, mesas redondas y documentales sobre temas conectados con el curso. Explora la lista y elige los videos que te interesen. Debes observar un total de 120 minutos.
 
 # Semana 8
 
@@ -97,7 +109,9 @@ Esta semana trabajaremos de manera independiente con los materiales disponibles 
 
 # Semana 12
 
-## Los sirgueros de la virgen
+## Los sirgueros
+
+Novela los sirgueros de la cirge.
 
 # Semana 13
 
