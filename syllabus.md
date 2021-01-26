@@ -104,24 +104,30 @@ Esta semana tornamos nuestra atención a la figura más importante de las letras
 
 ## Villancicos en el atrio y la plaza
 
-[Las castas en los villancicos de Sor Juana](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326828).
+Esta semana estudiaremos los [villancicos de Sor Juana Inés de la Cruz](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326828).
 
 # Semana 11
 
 ## Una casuística de los afectos 
 
+Esta semana está dedicada a la poesía amorosa de Sor Juana. Comenzaremos con el ensayo ["El jeroglífico del sentimiento: la poesía amorosa de Sor Juana"](), de la escritora y crítica mexicana Margo Glantz. A continuación leeremos [*Veintiún sonetos de Sor Juana y su casuística del amor*](http://www.cervantesvirtual.com/obra-visor/veintin-sonetos-de-sor-juana-y-su-casustica-del-amor-0/html/30ed4dee-44ae-438c-8caa-9327ca1791ee_8.html#I_0_), de la crítica cubano-americana Georgina Sabat de Rivers.
+
 # Semana 12
 
-## Los sirgueros de la virgen
+## Primavera inmortal indiana 
 
-Novela
+Estudiaremos una de las primeras novelas escritas y publicadas en la América española: [*Los sirgueros de la virgen sin origina pecado*](), de criollo novohispano Francisco Bramón, publicada en México en 1620. Se trata de una obra compleja, que combina los géneros el relato novelado, la poesía pastoril, el teatro sacro y el ensayo. En la novela, un grupo de pastores y pastoras organiza las festividades para la celebración en honor de la Virgen María, en particular el misterio de su inmaculada concepción--- doctrina en plena afirmación política y religiosa en la monarquía hispánica del periodo. En *Los sirgueros*, además de poesía, la celebración toma la forma de un auto sacramental---obra de teatro dentro de una novela. Para adentrarnos en la estética bucólica de la novela, en la primera sesión leeremos el célebre capítulo VI de [*Grandeza mexicana*](), titulado *Primavera inmortal y sus indicios*, una celebración de la naturaleza mexicana. En la segunda sesión entraremos de lleno en *Los sirgueros*.
 
 # Semana 13
 
-## La portentosa vida de la muerte
+## Carne, muerte, carnaval
+
+Concluimos nuestro panorama literario con una obra singular, publicada en la víspera de la Independencia: [*La portentosa vida de la muerte emperatriz de los sepulcros*](), escrita por fray Joaquín Bolaños y publicada en México en 1792. (Empezamos por leer la breve reseña de [Antuñano Maurer](https://www.revistadelauniversidad.mx/articles/de3214a6-4d78-4f72-a3dc-2c1ab062f35c/la-portentosa-vida-de-la-muerte).) La obra de Bolaños retoma el antiguo ánimo moralizante en torno a la muerte, pero al personificarla e involucrarla en diversos cómicos enredos, produce uno de los libros más singulares escritos en Nueva España. Pondremos especial atención en la serie de 18 grabados de Francisco Agüera Bustamante que ilustran la obra, y que anuncia la gráfica popular del México moderno, y en la segunda sesión leeremos las duras críticas que la obra sucitara de parte del sabio ilustrado José Antonio Alzate en la [*Gaceta de México*](), una de las primeras publicaciones científicas de México.
 
 # Semana 14
 
 ## Memoria novohispana en el México moderno
 
 Concluímos nuestro semestre reflexionando sobre el legado novohispano en el México (y ¿Estados Unidos?) moderno, un legado olvidado o expresamente surpimido de las narrativas históricas que acompañaron la formación del moderno Estado nación. Para ello, leeremos el ensayo ["Memoria, paisaje, horizonte: los jesuitas y la construcción de la nación mestiza"](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24318862) del antropólogo e historiador Alfonso Alfaro.
+
+---
