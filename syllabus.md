@@ -21,10 +21,6 @@ bigimg: /img/4partes.jpg
 
 Comenzamos el curso con dos lecturas que ofrecen miradas de conjunto sobre el virreinato de la Nueva España (1519-1821) en sus últimos años. La primera es una selección del [*Ensayo político sobre el reino de la Nueva España*]() del científico y explorador prusiano Alexander von Humboldt. Publicado por primera vez en francés en 1811 y en español en 1822, el *Ensayo* ofrece un cuadro detallado sobre la economía, la sociedad y la cultura de México en la víspera de la Indepedencia de España. A continuación leeremos una apología de los "ingenios americanos" sacada de la [*Bibliotheca Mexicana*](), obra del sabio novohispano Juan José Eguiara y Eguren (1696-1763). Esta obra es uno de los primeros intentos de sintetizar la totalidad de la producción cultural y literaria del México colonial. Finalmente, mira con atención el [siguiente mapa](https://upload.wikimedia.org/wikipedia/commons/6/60/1811_Humboldt_Map_of_Mexico%2C_Texas%2C_Louisiana%2C_and_Florida_-_Geographicus_-_Mexique-humboldt-1811.jpg), incluído en el *Ensayo* de Humboldt.
 
-### Notas
-
-Utilizar 
-
 # Semana 2 
 
 ## La muy noble, insigne y muy leal e imperial Ciudad de México 
@@ -34,16 +30,11 @@ Comenzaremos leyendo un ensayo de María de León Cázares, ["A cielo abierto: l
 {: .box-warning}
 **Palabras clave:** *Laudatio urbis*, humanismo, lo público y lo privado, Universidad de México
 
-### Plan de clase 
-
-- Utilizar mapa de José Antonio Villaseñor y Sánchez de la [Ciudad de México, 1753.] 
-- Reflexionar sobre el género de la *latudatio urbis*
-
 <br>
 
 # Semana 3 
 
-## La pigmentocracia novohispana
+## Casta y estamento: una pigmentocracia novohispana
 
 Para familiarizarnos con el tema, puedes comenzar viendo [este video](https://youtu.be/yk6fAcqfvEk) (2 min) y mirando con atención [ésta pintura](https://drive.google.com/file/d/1vqXNRs7civ64zqYK4JRD3ivgxRNVKNeX/view?usp=sharing). Para la primera sesión, leeremos dos ensayos visuales: [«La sociedad de castas en la Nueva España»](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326827), de Jacques Lafaye y [«La fiebre de la imagen en la pintura de castas»](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326830), de Margarita Orellana.
 Pondremos especial atención en los testimonios de la época que aparecen en los ensayos, como los del viajero inglés Thomas Gage (c. 1603 - 1656), del escritor Mateo Rosas de Oquendo (¿1559? - 1612) y de Fernández de Lizardi (1776 – 1827), el primer novelista del México independiente.
@@ -65,10 +56,6 @@ Esta semana ahondaremos en el sentido antropológico y social de la fiesta novoh
 ## "No hizo cosa igual con ninguna otra nación"
 
 Esta semana estudiaremos uno de los fenómenos más característicos de la vida cultural de la Nueva España, y cuyas consecuencias llegan hasta el día de hoy: el guadalupanismo. Para ello, leeremos  de los textos fundacionales del culto guadalupano, centrado en la veneración de una imagen pretendidamente milagrosa, así como una selección de obras literarias de tema guadalupano. Para la primera sesión, leeremos algunos capítulos de [*La estrella del Norte de Mexico*](), publicada por el historiador jesuita Francisco de Florencia en 1688 (analizaremos también la [imagen](https://archive.org/details/laestrelladeelno00flor/page/n6/mode/1up) y la [portada de la edición origina](https://archive.org/details/laestrelladeelno00flor/page/n8/mode/1up)). En la segunda sesión tornamos nuestra atención a la poesía. Leeremos dos cálebres sonetos guadalupanos de Luis Sandoval de Zapata y Sor Juana Inés de la Cruz, así como una selección de [*La octava maravilla*]() de Francisco de Castro.
-
-## Plan de clase
-
-- Octava maravilla, Vejamen, Primer Romance, Segundo Romance, Canto 1, i-xviiy canto III, i-xxxii. 
 
 
 # Semana 6
