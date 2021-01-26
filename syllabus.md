@@ -28,7 +28,7 @@ Comenzamos el curso con dos lecturas que ofrecen miradas de conjunto sobre el vi
 Comenzaremos leyendo un ensayo de María de León Cázares, ["A cielo abierto: la convivencia en plazas y calles"](https://drive.google.com/file/d/1PlmL8H6Nv0Lmyv8ar0HhKaNO-X8fo9we/view?usp=sharing), publicado en la *Historia de la vida privada en México*. Este ensayo contiene una selección de fuentes primarias de la época que describen diversos episodios importantes acontecidos en la ciudad de México: recomiendo que leas estas selecciones (indicadas en un recuadro) con atención, después de haber leído el cuerpo del ensayo. Para la segunda sesión, leeremos dos textos. El primero es un diálogo latino dedicado a la [Universidad de México](), escrito el 1554 por el humanista Francisco Cervantes de Salazar. A continuación, leeremos el Capítulo III (Caballos, calles, trato, cumplimiento) del célebre poema [*Grandeza mexicana*]() de Bernarndo de Balbuena, que describe la ciudad de México en torno a 1606. 
 
 {: .box-warning}
-**Palabras clave:** *Laudatio urbis*, humanismo, lo público y lo privado, Universidad de México
+**Palabras clave:** *Laudatio urbis*, humanismo, lo público y lo privado, Universidad de México, Diálogo Renancentista
 
 <br>
 
@@ -41,6 +41,10 @@ Pondremos especial atención en los testimonios de la época que aparecen en los
 Para la segunda sesión, leeremos [«Un Quevedo en Nueva España satiriza las castas»](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326829) de María José Rodilla y una selección de [villancicos de Sor Juana Inés de la Cruz](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326828)
 .
 Además, debes mirar con detenimiento la serie de pinturas del pintor [Miguel Cabrera (1695 - 1769)](http://ablaevariteprobatum.blogspot.com/2013/04/miguel-cabrera-y-la-pintura-de-castas.html).
+
+{: .box-warning}
+**Palabras clave:** Sociedad estamental, castas, Antiguo Régimen, Concepto de raza en Hispanoamérica 
+
 
 # Semana 4
 
