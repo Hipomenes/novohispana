@@ -27,15 +27,12 @@ Utilizar
 
 # Semana 2 
 
-## La muy noble y leal Ciudad de México
+## La muy noble, insigne y muy leal e imperial Ciudad de México 
 
-Comenzaremos leyendo un ensayo de María de León Cázares, ["A cielo abierto: la convivencia en plazas y calles"](https://drive.google.com/file/d/1PlmL8H6Nv0Lmyv8ar0HhKaNO-X8fo9we/view?usp=sharing), publicado en la *Historia de la vida privada en México*. Este ensayo contiene una selección de fuentes primarias de la época que describen diversos episodios importantes acontecidos en la ciudad de México: recomiendo que leas estas selecciones (indicadas en un recuadro) con atención, después de haber leído el cuerpo del ensayo. 
-
-- Cervantes de Salazar, [*Díalogos de 1554*]()
-- Bernando de Balbuena, [*Grandeza mexicana*]()
+Comenzaremos leyendo un ensayo de María de León Cázares, ["A cielo abierto: la convivencia en plazas y calles"](https://drive.google.com/file/d/1PlmL8H6Nv0Lmyv8ar0HhKaNO-X8fo9we/view?usp=sharing), publicado en la *Historia de la vida privada en México*. Este ensayo contiene una selección de fuentes primarias de la época que describen diversos episodios importantes acontecidos en la ciudad de México: recomiendo que leas estas selecciones (indicadas en un recuadro) con atención, después de haber leído el cuerpo del ensayo. Para la segunda sesión, leeremos dos textos. El primero es un diálogo latino dedicado a la [Universidad de México](), escrito el 1554 por el humanista Francisco Cervantes de Salazar. A continuación, leeremos el Capítulo III (Caballos, calles, trato, cumplimiento) del célebre poema [*Grandeza mexicana*]() de Bernarndo de Balbuena, que describe la ciudad de México en torno a 1606. 
 
 {: .box-warning}
-**Palabras clave:** *Laudatio urbis*, humanismo, lo público y lo privado
+**Palabras clave:** *Laudatio urbis*, humanismo, lo público y lo privado, Universidad de México
 
 ### Plan de clase 
 
@@ -69,6 +66,8 @@ Esta semana ahondaremos en el sentido antropológico y social de la fiesta novoh
 
 Esta semana estudiaremos uno de los fenómenos más característicos de la vida cultural de la Nueva España, y cuyas consecuencias llegan hasta el día de hoy: el guadalupanismo. Para ello, leeremos  de los textos fundacionales del culto guadalupano, centrado en la veneración de una imagen pretendidamente milagrosa, así como una selección de obras literarias de tema guadalupano. Para la primera sesión, leeremos algunos capítulos de [*La estrella del Norte de Mexico*](), publicada por el historiador jesuita Francisco de Florencia en 1688 (analizaremos también la [imagen](https://archive.org/details/laestrelladeelno00flor/page/n6/mode/1up) y la [portada de la edición origina](https://archive.org/details/laestrelladeelno00flor/page/n8/mode/1up)). En la segunda sesión tornamos nuestra atención a la poesía. Leeremos dos cálebres sonetos guadalupanos de Luis Sandoval de Zapata y Sor Juana Inés de la Cruz, así como una selección de [*La octava maravilla*]() de Francisco de Castro.
 
+## Plan de clase
+
 - Octava maravilla, Vejamen, Primer Romance, Segundo Romance, Canto 1, i-xviiy canto III, i-xxxii. 
 
 
@@ -87,15 +86,19 @@ Leeremos la [*Vida de la venerable Catherina de San Juan*](https://drive.google.
 
 ## Semana abierta
 
-Esta semana trabajaremos de manera independiente con los materiales disponibles en la lista [Arte, literatura y cultura novohispana](https://youtube.com/playlist?list=PLiHNaBC9keLdsq7PzUJWptaxgfgjxM1sm) de Youtube. En esta lista encontrarás una gran cantidad de conferencias, mesas redondas y documentales sobre temas conectados con el curso. Explora la lista y elige los videos que te interesen. Debes observar un total de 120 minutos.
+Esta semana trabajaremos de manera independiente con los materiales disponibles en la lista [Arte, literatura y cultura novohispana](https://youtube.com/playlist?list=PLiHNaBC9keLdsq7PzUJWptaxgfgjxM1sm) de Youtube. En esta lista encontrarás una gran cantidad de conferencias, mesas redondas y documentales sobre temas conectados con el curso. Explora la lista y elige los videos que te interesen (es un buen momento para explorar temas para tu trabajo final). Debes ver un total de 120 minutos. Durante esta semana, trabajaremos de modo asincrónico por Blackboard.
 
 # Semana 8
 
-## Juan Ruiz de Alarcón
+## El teatro aureo novohispano
+
+En la única clase de esta semana, tornaremos nuestra atención hacia el teatro. Para ello, veremos ["La verdad sospechosa"](http://teatroteca.teatro.es/opac/?id=00013941) (*ca*. 1621), obra maestra de Juan Ruiz de Alarcón, escritor novohispano que hizo fortuna en el Madrid de los Austrias. La versión que veremos fue dirigida por Helena Pimenta para la Compañía Nacional de Teatro Clásico de España en 2013. Además, debes leer las secciones "Biografía", "Su figura" y "Vida literaria" del ensayo ["Ruiz de Alarcón"](http://www.cervantesvirtual.com/obra-visor/medallones/html/e2eff529-f6b6-4004-a965-83d1e5a222ce.html) del crítico y escritor Alfonso Reyes.
 
 # Semana 9
 
-## Las loas y autos sacramentales de Sor Juana
+## Las loas, tocotines y autos sacramentales de Sor Juana
+
+Esta semana tornamos nuestra atención a la figura más importante de las letras novohispanas: Juana Inés de Asbaje Ramírez de Santillana, mejor conocida por su nombre religioso, Sor Juana Inés de la Cruz (1648 - 1695). Para ello, puedes comenzar viendo [este video de 5 minutos](https://youtu.be/gPranNMoHdU) o, si dispones de más tiempo, este episodio de [México en la obra de Octavio Paz](https://youtu.be/MNnZpVsPYiE). A continuación leeremos un artículo y traducción de uno de los primeros textos que se conservan de la autora: la [*Loa satírica mixta de una comedia*](http://server.fhp.uoregon.edu/dtu/sites/sorjuana/hypertext/sj03.html). La *Loa* fue descubierta no hace mucho, y además de ser un texto atribuible a Sor Juana en su juventud (entre 12 y 16 años), es un texto escrito en español y náhuatl. Para la segunda sesión, leeremos una de las obras maestras de la poeta: la [*Loa al Divino Narciso*]().
 
 # Semana 10
 
@@ -109,9 +112,9 @@ Esta semana trabajaremos de manera independiente con los materiales disponibles 
 
 # Semana 12
 
-## Los sirgueros
+## Los sirgueros de la virgen
 
-Novela los sirgueros de la cirge.
+Novela
 
 # Semana 13
 
