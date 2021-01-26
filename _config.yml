@@ -27,8 +27,8 @@ paginate_path: "/blog/page:num/"
 navbar-links:
   About: "aboutus"
   <i class="fas fa-graduation-cap"></i> Course:
-    - General Policies: ""
-    - Courses Grading: ""
+    - General Policies: "policies"
+    - Courses Grading: "grading"
     - Assignments: "assignments"
     - Resources: "resources"
   <i class="fas fa-book-open"></i> Readings: "syllabus"
