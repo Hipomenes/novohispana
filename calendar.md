@@ -8,8 +8,8 @@ subtitle: Spring 2021
 
 | Wk | Date | Reading | Assignment | Presentation|
 |:------:|:------|:--------:|:------:|----:|
-|     I | 01/26 | Intro | | |
-|       | 01/28 | Humboldt; Egura y Eguren| | |
+|     I | 01/26 | Introducción | | |
+|       | 01/28 | Humboldt; Eguiara y Eguren| | |
 |    II | 02/02 | Video, Lafaye, Orellana | | Keywords: ___  & ___ |
 |       | 02/04 | Rodilla, Correa, Sor Juana  | Annotation | Kickoff: ___ |
 | III   | 02/09 | | 1st | |
