@@ -10,10 +10,10 @@ subtitle: Spring 2021
 |:------:|:------|:--------:|:------:|----:|
 |     I | 01/26 | Introducción | | |
 |       | 01/28 | Humboldt; Eguiara y Eguren| | |
-|    II | 02/02 | León Cázares | | |
-|       | 02/04 |   | Annotation | Keywords: ___  & ___ |
-| III   | 02/09 | | 1st | |
-|       | 02/11 | | | |
+|    II | 02/02 | León Cázares | Response |  |
+|       | 02/04 | Cervantes de Salazar; Balbuena  | Annotation | Keywords: ___  & ___ |
+| III   | 02/09 | Video; Lafaye; Orellana | 1st | |
+|       | 02/11 | Rodilla; Sor Juana; Cabrera| | |
 |  IV   | 02/16 | | | |
 |       | 02/18 | | | |
 | V     | 02/23 | | 2nd | |
