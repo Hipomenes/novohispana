@@ -10,8 +10,8 @@ subtitle: Spring 2021
 |:------:|:------|:--------:|:------:|----:|
 |     I | 01/26 | Introducción | | |
 |       | 01/28 | Humboldt; Eguiara y Eguren| | |
-|    II | 02/02 | Video, Lafaye, Orellana | | Keywords: ___  & ___ |
-|       | 02/04 | Rodilla, Correa, Sor Juana  | Annotation | Kickoff: ___ |
+|    II | 02/02 | León Cázares, | | |
+|       | 02/04 |   | Annotation | Keywords: ___  & ___ |
 | III   | 02/09 | | 1st | |
 |       | 02/11 | | | |
 |  IV   | 02/16 | | | |
