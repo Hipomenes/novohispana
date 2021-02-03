@@ -34,7 +34,7 @@ Comenzaremos leyendo un ensayo de María de León Cázares, ["A cielo abierto: l
 
 # Semana 3 
 
-# "Del mundo el quicio": miradas cruzadas
+## "Del mundo el quicio": miradas cruzadas
 
 Esta semana exploraremos otras miradas sobre la ciudad de México. La primera es el testimonio del escritor e historiador indígena don Domingo Francisco de San Antón Muñón Chimalpahin (1579 - 1660). Autor de numerosas relaciones históricas sobre los antiguos mexicanos, Chimalpahin llevó también [un diario](), que nos ofrece una mirada fascinante sobre la capital novohispana. Su diario nos ayudará además para considerar una singular género pictórico novohispano: el [Biombo del Palacio de los Virreyes de México](https://upload.wikimedia.org/wikipedia/commons/4/49/Large_screen_of_the_Palace_of_the_Viceroys_of_Mexico%2C_ca._1676-1700%2C_Mexico_City%2C_Museum_of_the_Americas%2C_anonimous_painter.jpg) y el [Biombo de la ciudad de México](https://vistasgallery.ace.fordham.edu/items/show/1642) (México, finales del siglo XVII). Para la segunda sesión, leeremos un fragmento del diario del viajero italiano [Giovanni Francesco Gemelli Careri]() (1651–1725), quien en su viaje al rededor del mundo (publicado originalmente en 1699) visitó la ciudad de México. El diario es un documento extraordinario, que nos permite evocar la vida cotidiana y la omnipresencia de la fiesta en el espacio público novohispano. Su lectura nos servirá como punto de partida para discutir las ideas sobre el "ethos barroco" del filósofo ecuatoriano-mexicano [Bolívar Echeverría]().
 
