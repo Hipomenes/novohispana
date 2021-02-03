@@ -12,7 +12,7 @@ subtitle: Spring 2021
 |       | 01/28 | Humboldt; Eguiara y Eguren| | |
 |    II | 02/02 | León Cázares | Response |  |
 |       | 02/04 | Cervantes de Salazar; Balbuena  | Annotation | Keywords: ___  & ___ |
-| III   | 02/09 | Chimalpahin; biombos | 1st | |
+| III   | 02/09 | Chimalpahin; Vallen; biombo | 1st | |
 |       | 02/11 | Careri; Bolivar Echeverría | | Presentación____ |
 |  IV   | 02/16 | Video; Lafaye; Orellana | | |
 |       | 02/18 | Rodilla; Sor Juana; Cabrera | | Presentación____ |
