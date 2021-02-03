@@ -25,10 +25,10 @@ Comenzamos el curso con dos lecturas que ofrecen miradas de conjunto sobre el vi
 
 ## La muy noble, insigne y muy leal e imperial Ciudad de México 
 
-Comenzaremos leyendo un ensayo de María de León Cázares, ["A cielo abierto: la convivencia en plazas y calles"](https://drive.google.com/file/d/1PlmL8H6Nv0Lmyv8ar0HhKaNO-X8fo9we/view?usp=sharing), publicado en la *Historia de la vida privada en México*. Este ensayo contiene una selección de fuentes primarias de la época que describen diversos episodios importantes acontecidos en la ciudad de México: recomiendo que leas estas selecciones (indicadas en un recuadro) con atención, después de haber leído el cuerpo del ensayo. Para la segunda sesión, leeremos dos textos. El primero es un diálogo latino dedicado a la [Universidad de México](), escrito el 1554 por el humanista Francisco Cervantes de Salazar. A continuación, leeremos el Capítulo III (Caballos, calles, trato, cumplimiento) del célebre poema [*Grandeza mexicana*]() de Bernarndo de Balbuena, que describe la ciudad de México en torno a 1606. 
+Comenzaremos leyendo un ensayo de María de León Cázares, ["A cielo abierto: la convivencia en plazas y calles"](https://drive.google.com/file/d/1PlmL8H6Nv0Lmyv8ar0HhKaNO-X8fo9we/view?usp=sharing), publicado en la *Historia de la vida privada en México*. Este ensayo contiene una selección de fuentes primarias de la época que describen diversos episodios importantes acontecidos en la ciudad de México: recomiendo que leas estas selecciones (indicadas en un recuadro) con atención, después de haber leído el cuerpo del ensayo. Para la segunda sesión, leeremos dos textos. El primero es un diálogo latino dedicado a la [Universidad de México](https://drive.google.com/file/d/1Lmjq4MKdKHlsylI7qLaKcG1xeynvkw2V/view?usp=sharing) (pp. 3-19), escrito el 1554 por el humanista Francisco Cervantes de Salazar. A continuación, leeremos el Capítulo III (Caballos, calles, trato, cumplimiento) del célebre poema [*Grandeza mexicana*](https://drive.google.com/file/d/1SFAmdbH3TOA7O5uM2iofskgbk06WyjL4/view?usp=sharing) (pp. 73-78) de Bernarndo de Balbuena, que describe la ciudad de México en torno a 1606. 
 
 {: .box-warning}
-**Palabras clave:** *Laudatio urbis*, humanismo, lo público y lo privado, Universidad de México, Diálogo Renancentista
+**Palabras clave:** *Laudatio urbis*, humanismo, diálogo
 
 <br>
 
