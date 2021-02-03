@@ -34,6 +34,15 @@ Comenzaremos leyendo un ensayo de María de León Cázares, ["A cielo abierto: l
 
 # Semana 3 
 
+# "Del mundo el quicio": miradas cruzadas
+
+Esta semana exploraremos otras miradas sobre la ciudad de México. La primera es el testimonio del escritor e historiador indígena don Domingo Francisco de San Antón Muñón Chimalpahin (1579 - 1660). Autor de numerosas relaciones históricas sobre los antiguos mexicanos, Chimalpahin llevó también [un diario](), que nos ofrece una mirada fascinante sobre la capital novohispana. Su diario nos ayudará además para considerar una singular género pictórico novohispano: el [Biombo del Palacio de los Virreyes de México](https://upload.wikimedia.org/wikipedia/commons/4/49/Large_screen_of_the_Palace_of_the_Viceroys_of_Mexico%2C_ca._1676-1700%2C_Mexico_City%2C_Museum_of_the_Americas%2C_anonimous_painter.jpg) y el [Biombo de la ciudad de México](https://vistasgallery.ace.fordham.edu/items/show/1642) (México, finales del siglo XVII). Para la segunda sesión, leeremos un fragmento del diario del viajero italiano [Giovanni Francesco Gemelli Careri]() (1651–1725), quien en su viaje al rededor del mundo (publicado originalmente en 1699) visitó la ciudad de México. El diario es un documento extraordinario, que nos permite evocar la vida cotidiana y la omnipresencia de la fiesta en el espacio público novohispano. Su lectura nos servirá como punto de partida para discutir las ideas sobre el "ethos barroco" del filósofo ecuatoriano-mexicano [Bolívar Echeverría]().
+
+{: .box-warning}
+**Palabras clave:** Biombo, Nao de China, arte namba, mundialización
+
+# Semana 4
+
 ## Casta y estamento: una pigmentocracia novohispana
 
 Para familiarizarnos con el tema, puedes comenzar viendo [este video](https://youtu.be/yk6fAcqfvEk) (2 min) y mirando con atención [ésta pintura](https://drive.google.com/file/d/1vqXNRs7civ64zqYK4JRD3ivgxRNVKNeX/view?usp=sharing). Para la primera sesión, leeremos dos ensayos visuales: [«La sociedad de castas en la Nueva España»](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326827), de Jacques Lafaye y [«La fiebre de la imagen en la pintura de castas»](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326830), de Margarita Orellana.
@@ -44,16 +53,6 @@ Además, debes mirar con detenimiento la serie de pinturas del pintor [Miguel Ca
 
 {: .box-warning}
 **Palabras clave:** Sociedad estamental, castas, Antiguo Régimen, Concepto de raza en Hispanoamérica 
-
-
-# Semana 4
-
-## Toros, cañas y sacramentos
-
-Esta semana ahondaremos en el sentido antropológico y social de la fiesta novohispana. Para ello comenzamos un informativo artículo de [Pilar Gonzalbo]() sobre el calendario de las fiestas litúrgicas en la Nueva España. Nos concentraremos entonces en el poema [*Fiestas de toros, juegos de cañas*](), escrito por María Estrada de Medinilla para referir una gran fiesta pública en 1641. Medinilla es la primera poetiza mexicana de la que se conserva un buen número de obras y su poema-relacióm describe con mucho detalle una celebración civil típica de mediados del siglo XVII. Para la segunda sesión, leeremos un fragmento del diario del viajero italiano [Giovanni Francesco Gemelli Careri]() (1651–1725), quien en su viaje al rededor del mundo (publicado originalmente en 1699) visitó la ciudad de México. El diario es un documento extraordinario, que nos permite evocar la vida cotidiana y la omnipresencia de la fiesta en el espacio público novohispano. Su lectura nos servirá como punto de partida para discutir las ideas sobre el "ethos barroco" del filósofo ecuatoriano-mexicano [Bolívar Echeverría]().
-
-{: .box-warning}
-**Palabras clave:** Corpus Christi, tauromaquia, "moros y cristianos", fiesta barroca, género "Relación de Fiestas".
 
 # Semana 5
 
