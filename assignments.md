@@ -19,7 +19,7 @@ Una vez terminado este proceso de planeación, estarás listo para redactar tu c
 <br>
 <br>
 
-# 1ª Composición
+# Primera Composición
 
 En la primera composición, debes hacer una **comparación y contraste** entre dos o más obras que hemos leído. Puedes concentrarte en un tema, y utilizarlo para comparar dos de las lecturas. Trata de considerar primero las similitudes y los paralelismos, para luego hacer énfasis en las diferencias. Tu composición debe llevar un título que anuncie su contenido.
 
