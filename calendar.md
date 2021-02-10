@@ -13,7 +13,7 @@ subtitle: Spring 2021
 |    II | 02/02 | León Cázares | Response |  |
 |       | 02/04 | Cervantes de Salazar; Balbuena  | Annotation | Keywords: ___  & ___ |
 | III   | 02/09 | Chimalpahin; Vallen; biombo | 1st | |
-|       | 02/11 | Careri; Bolivar Echeverría | | Presentación____ |
+|       | 02/11 | Sigüeza y Góngora | |  |
 |  IV   | 02/16 | Video; Lafaye; Orellana | | |
 |       | 02/18 | Rodilla; Sor Juana; Cabrera | | Presentación____ |
 | V     | 02/23 | | 2nd | |
