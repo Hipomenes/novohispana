@@ -46,11 +46,11 @@ Para la segunda sesión, leeremos una selección de los [*Infortunios de Alonso 
 
 # Semana 4
 
-## Una sociedad de castas
+## ¿Una sociedad de castas?
 
 **Sesión única**.
 Esta semana estudiaremos la noción de *casta* en Nueva España mediante un género pictórico muy popular del siglo XVIII: la pintura de castas.
-Puedes comenzar viendo [este video](https://youtu.be/yk6fAcqfvEk) (2 min) y mirando con atención [ésta pintura](https://drive.google.com/file/d/1vqXNRs7civ64zqYK4JRD3ivgxRNVKNeX/view?usp=sharing). Para nuestra seción única leeremos dos ensayos visuales: [«La sociedad de castas en la Nueva España»](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326827) de Jacques Lafaye y [«La fiebre de la imagen en la pintura de castas»](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326830), de Margarita Orellana. Leeremos además una selección de los [villancicos de Sor Juana Inés de la Cruz](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326828).
+Puedes comenzar viendo [este video](https://youtu.be/yk6fAcqfvEk) (2 min) y mirando con atención [ésta pintura](https://drive.google.com/file/d/1vqXNRs7civ64zqYK4JRD3ivgxRNVKNeX/view?usp=sharing). Para nuestra seción única leeremos dos ensayos visuales: [«La sociedad de castas en la Nueva España»](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326827) de Jacques Lafaye y [«La fiebre de la imagen en la pintura de castas»](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326830), de Margarita Orellana.
 
 
 {: .box-warning}
