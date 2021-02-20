@@ -16,8 +16,8 @@ subtitle: Spring 2021
 |       | 02/11 | Sigüeza y Góngora | |  |
 |  IV   | 02/16 | **No hay clase** | | |
 |       | 02/18 | Video; Lafaye; Orellana | | Presentación: Sara |
-| V     | 02/23 | | 2nd | |
-|       | 02/25 | | | Presentación____ |
+| V     | 02/23 | Villancicos y Villancicos musicalizados |  | |
+|       | 02/25 | Tocotín | 2nd | Presentación____ |
 | VI    | 03/02 | | | |
 |       | 03/04 | | | Presentación____ |
 | VII*  | 03/09 | | 3rd | Open Week |
