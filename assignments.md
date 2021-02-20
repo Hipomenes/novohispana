@@ -26,3 +26,22 @@ En la primera composición, debes hacer una **comparación y contraste** entre d
 Para ayudarte en la redacción de tu texto, por favor utiliza la siguiente lista de [frases conectoras](https://drive.google.com/file/d/1HlCccOz82TFvkfbINOV9Yu2IpAXFS00u/view?usp=sharing). En particular, trata de utilizar las frases conectoras que aparecen bajo los encabezados "Para contrastar" y "Para presentar una semejanza". Para entender cómo se usan estas frases en contexto, utiliza el [Corpus Diacrónico de la Lengua](http://corpus.rae.es/cordenet.html).
 
 Por favor entrega tu composición como un documento de Word por Blackboard.
+
+<br>
+
+# Segunda Composición
+
+Para esta composición, vamos a trabajar con un gran "diccionario de diccionarios": el [Nuevo Tesoro Lexicográfico de la Lengua Española](http://ntlle.rae.es/ntlle/SrvltGUILoginNtlle).
+
+El objetivo de esta composición es reflexionar sobre las profundidad histórica de las palabras. En particular, las fluctuaciones de sentido, los cambios semánticos, así como la variación de los referentes, nos ofrecen una ventana a los cambios sociales y culturales.
+
+1. Basándote en las lecturas de las últimas semanas (el léxico del mestizaje, en la pintura de castas, o los villancicos de Sor Juana) selecciona un término que te parezca enigmático, extraño o interesante. No debe ser ni un término totalmente común, ni tampoco un término de un sentido demasiado amplio. Idealmente, será un término poco usual y cuyo sentido parezca variar o ser inconsistente en los textos. También puede ser un término sencillo pero cargado de connotaciones diversas. Puede ser un sustantivo, un adjetivo o un verbo.
+
+2. A continuación, ingresen al sitio dl Nuevo Tesoro Lexicográfico y busquen el término que eligieron. Como verán, el NTL les dará todas las apariciones del término en una serie de diccionarios históricos del español. Exploren y consulten tantas versiones como puedan, tratando de reflexionar sobre el sentido de la palabra y su cambio a lo largo del tiempo.
+
+3. A continuación, escriban redacta una composición sobre sus hallazgos en los diccionarios, tratando de crear un argumento comparando los sentidos que encontraste en el diccionario con el sentido del término en el texto original.
+
+4. No olvides ponerle un título a tu composición, escribir tu nombre, y añadir el *word count*.
+
+
+
