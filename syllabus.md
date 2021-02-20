@@ -58,9 +58,9 @@ Puedes comenzar viendo [este video](https://youtu.be/yk6fAcqfvEk) (2 min) y mira
 
 # Semana 5
 
-## "No hizo cosa igual con ninguna otra nación"
+## Villancicos en el atrio y la plaza
 
-Esta semana estudiaremos uno de los fenómenos más característicos de la vida cultural de la Nueva España, y cuyas consecuencias llegan hasta el día de hoy: el guadalupanismo. Para ello, leeremos  de los textos fundacionales del culto guadalupano, centrado en la veneración de una imagen pretendidamente milagrosa, así como una selección de obras literarias de tema guadalupano. Para la primera sesión, leeremos algunos capítulos de [*La estrella del Norte de Mexico*](), publicada por el historiador jesuita Francisco de Florencia en 1688 (analizaremos también la [imagen](https://archive.org/details/laestrelladeelno00flor/page/n6/mode/1up) y la [portada de la edición origina](https://archive.org/details/laestrelladeelno00flor/page/n8/mode/1up)). En la segunda sesión tornamos nuestra atención a la poesía. Leeremos dos cálebres sonetos guadalupanos de Luis Sandoval de Zapata y Sor Juana Inés de la Cruz, así como una selección de [*La octava maravilla*]() de Francisco de Castro.
+Esta semana estudiaremos continuaremos nuestro estudio del mestizaje, tornando nuestra atención a los [villancicos de Sor Juana Inés de la Cruz](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326828). Además, por favor escuchen algunos de los [villancios musicalizados](https://youtu.be/rX1Z2itNKYc) en la época de Sor Juana en Bolivia. Escuches lo comentarios de introducción de Ernesto de la Peña, y después escuchen libremente algunas de las composiciones. Para la seción del jueves, leeremos una pieza bilingüe de Sor Juana, una loa escrita en náhuatl y español. 
 
 
 # Semana 6
@@ -94,9 +94,6 @@ Esta semana tornamos nuestra atención a la figura más importante de las letras
 
 # Semana 10
 
-## Villancicos en el atrio y la plaza
-
-Esta semana estudiaremos los [villancicos de Sor Juana Inés de la Cruz](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326828).
 
 # Semana 11
 
