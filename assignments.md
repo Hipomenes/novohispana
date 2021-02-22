@@ -33,11 +33,11 @@ Por favor entrega tu composición como un documento de Word por Blackboard.
 
 Para esta composición, vamos a trabajar con un gran "diccionario de diccionarios": el [Nuevo Tesoro Lexicográfico de la Lengua Española](http://ntlle.rae.es/ntlle/SrvltGUILoginNtlle).
 
-El objetivo de esta composición es reflexionar sobre las profundidad histórica de las palabras. En particular, las fluctuaciones de sentido, los cambios semánticos, así como la variación de los referentes, nos ofrecen una ventana a los cambios sociales y culturales.
+El objetivo de esta composición es reflexionar sobre las profundidad histórica de las palabras. En particular, vamos a pensar en cómo las fluctuaciones de sentido, los cambios semánticos, así como la variación de los referentes, nos ofrecen una ventana al cambio de las mentalidades.
 
 1. Basándote en las lecturas de las últimas semanas (el léxico del mestizaje, en la pintura de castas, o los villancicos de Sor Juana) selecciona un término que te parezca enigmático, extraño o interesante. No debe ser ni un término totalmente común, ni tampoco un término de un sentido demasiado amplio. Idealmente, será un término poco usual y cuyo sentido parezca variar o ser inconsistente en los textos. También puede ser un término sencillo pero cargado de connotaciones diversas. Puede ser un sustantivo, un adjetivo o un verbo.
 
-2. A continuación, ingresen al sitio dl Nuevo Tesoro Lexicográfico y busquen el término que eligieron. Como verán, el NTL les dará todas las apariciones del término en una serie de diccionarios históricos del español. Exploren y consulten tantas versiones como puedan, tratando de reflexionar sobre el sentido de la palabra y su cambio a lo largo del tiempo.
+2. A continuación, ingresen al sitio del Nuevo Tesoro Lexicográfico y busquen el término que eligieron. Como verán, el NTL les dará todas las apariciones del término en una serie de diccionarios históricos del español. Exploren y consulten tantas versiones como puedan, tratando de reflexionar sobre el sentido de la palabra y su cambio a lo largo del tiempo.
 
 3. A continuación, escriban redacta una composición sobre sus hallazgos en los diccionarios, tratando de crear un argumento comparando los sentidos que encontraste en el diccionario con el sentido del término en el texto original.
 
