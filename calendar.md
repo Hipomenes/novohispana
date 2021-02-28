@@ -18,8 +18,8 @@ subtitle: Spring 2021
 |       | 02/18 | Video; Lafaye; Orellana | | Presentación: Sara |
 | V     | 02/23 | Villancicos y Villancicos musicalizados |  | |
 |       | 02/25 | Gruzinski | 2nd | Presentación____ |
-| VI    | 03/02 | | | |
-|       | 03/04 | | | Presentación____ |
+| VI    | 03/02 | Muriel o Gomar| | |
+|       | 03/04 | Hagiografías | | Presentación____ |
 | VII*  | 03/09 | | 3rd | Open Week |
 |       | 03/11 | | | Presentación____ |
 | VIII  | 03/16 | | | |
