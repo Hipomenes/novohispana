@@ -68,7 +68,7 @@ Esta semana  continuaremos nuestro estudio del mestizaje en la Nueva Espala, tor
 
 La vida coventual fue uno de las instituciones sociales más importantes de la Nueva España. En la primera sesión, estudiaremos esta institución y sus prácticas culturales a partir de un género pictórico muy popular en la América española: los [retratos de monjas coronadas](https://www.letraslibres.com/mexico-espana/monjas-coronadas-una-exposicion-pintura-novohispana). Para entender el significado de este género novohispano, debes **escoger y leer uno** de los siguientes dos artículos:  [«Los conventos de monjas en la sociedad virreinal»](https://drive.google.com/file/d/1IeKalbKkY1AmQv_tKxQMpRuIijg02wdB/view?usp=sharing) de Josefina Muriel *o* el ensayo [«Monjas coronadas»](https://drive.google.com/file/d/1QwWesZYVviKxC3QKGaOl7EBIYS_2b25R/view?usp=sharing) de Rogelio Ruiz Gomar. 
 En la segunda sesión, tornamos nuestra atención a algunas fuentes escritas, como las populares biografías de religiosas y regiliosos.
-Leeremos la [*Vida de la venerable Catherina de San Juan*](https://drive.google.com/file/d/1vXrABgEm7HKfd7M_oaAfeurGxZX1nWGD/view?usp=sharing), publicada por Francisco de Aguilera (Puebla, 1688), así como una selección del [*Menologio franciscano*](https://drive.google.com/file/d/1vXrABgEm7HKfd7M_oaAfeurGxZX1nWGD/view?usp=sharing) de fray Agustín de Vetancour (México, 1698).
+Leeremos [una selección de](https://drive.google.com/file/d/1vXrABgEm7HKfd7M_oaAfeurGxZX1nWGD/view?usp=sharing) la *Vida de la venerable Catherina de San Juan*, publicada por Francisco de Aguilera (Puebla, 1688) y del *Menologio franciscano* de fray Agustín de Vetancour (México, 1698).
 
 {: .box-warning}
 **Palabras clave:** Hagiografía, mística, órdenes religiosas, menologio.
