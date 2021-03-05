@@ -77,7 +77,7 @@ Leeremos [una selección de](https://drive.google.com/file/d/1vXrABgEm7HKfd7M_oa
 
 ## Semana abierta
 
-Esta semana trabajaremos de manera independiente con los materiales disponibles en la lista [Arte, literatura y cultura novohispana](https://youtube.com/playlist?list=PLiHNaBC9keLdsq7PzUJWptaxgfgjxM1sm) de Youtube. En esta lista encontrarás una gran cantidad de conferencias, mesas redondas y documentales sobre temas conectados con el curso. Explora la lista y elige los videos que te interesen (es un buen momento para explorar temas para tu trabajo final). Debes ver un total de 120 minutos. Durante esta semana, trabajaremos de modo asincrónico por Blackboard.
+Esta semana trabajaremos de manera independiente con los materiales disponibles en la lista [Arte, literatura y cultura novohispana](https://youtube.com/playlist?list=PLiHNaBC9keLdsq7PzUJWptaxgfgjxM1sm) de Youtube. En esta lista encontrarás una gran cantidad de conferencias, mesas redondas y documentales sobre temas conectados con el curso. Explora la lista y elige los videos que te interesen (es un buen momento para explorar temas para tu trabajo final). Debes ver un total de 90 minutos. Durante esta semana, trabajaremos de modo asincrónico por Blackboard.
 
 # Semana 8
 
