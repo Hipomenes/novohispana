@@ -83,7 +83,7 @@ Esta semana trabajaremos de manera independiente con los materiales disponibles 
 
 ## El teatro aureo novohispano
 
-En la única clase de esta semana, tornaremos nuestra atención hacia el teatro. Para ello, veremos ["La verdad sospechosa"](http://teatroteca.teatro.es/opac/?id=00013941) (*ca*. 1621), obra maestra de Juan Ruiz de Alarcón, escritor novohispano que hizo fortuna en el Madrid de los Austrias. La versión que veremos fue dirigida por Helena Pimenta para la Compañía Nacional de Teatro Clásico de España en 2013. Además, debes leer las secciones "Biografía", "Su figura" y "Vida literaria" del ensayo ["Ruiz de Alarcón"](http://www.cervantesvirtual.com/obra-visor/medallones/html/e2eff529-f6b6-4004-a965-83d1e5a222ce.html) del crítico y escritor Alfonso Reyes.
+En la única clase de esta semana, tornaremos nuestra atención hacia el teatro. Para ello, veremos ["La verdad sospechosa"](http://teatroteca.teatro.es/opac/?id=00013941) (*ca*. 1621), obra maestra de Juan Ruiz de Alarcón, escritor novohispano que hizo fortuna en el Madrid de los Austrias. La versión que veremos fue dirigida por Helena Pimenta para la Compañía Nacional de Teatro Clásico de España en 2013. (Además, (opcional) puedes leer las secciones "Biografía", "Su figura" y "Vida literaria" del ensayo ["Ruiz de Alarcón"](http://www.cervantesvirtual.com/obra-visor/medallones/html/e2eff529-f6b6-4004-a965-83d1e5a222ce.html) del crítico y escritor Alfonso Reyes.)
 
 # Semana 9
 
