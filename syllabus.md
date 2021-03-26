@@ -95,7 +95,7 @@ Esta semana tornamos nuestra atención a la figura más importante de las letras
 
 ## Una casuística de los afectos 
 
-Esta semana está dedicada a la poesía amorosa de Sor Juana. Comenzaremos con el ensayo ["El jeroglífico del sentimiento: la poesía amorosa de Sor Juana"](), de la escritora y crítica mexicana Margo Glantz. A continuación leeremos [*Veintiún sonetos de Sor Juana y su casuística del amor*](http://www.cervantesvirtual.com/obra-visor/veintin-sonetos-de-sor-juana-y-su-casustica-del-amor-0/html/30ed4dee-44ae-438c-8caa-9327ca1791ee_8.html#I_0_), de la crítica cubano-americana Georgina Sabat de Rivers.
+Esta semana está dedicada a la poesía amorosa de Sor Juana. Comenzaremos leyendo el Romance [""](https://www.poeticous.com/sor-juana-ines-de-la-cruz/que-resuelve-con-ingenuidad-sobre-el-problema-entre-las-instancias-de-la-obligacion-y-el-afecto?filter=most-views&locale=it). También, échale un vistazo al ensayo ["El jeroglífico del sentimiento: la poesía amorosa de Sor Juana"](https://core.ac.uk/download/pdf/16360794.pdf), de la escritora y crítica mexicana Margo Glantz. Para la segunda clase leeremos [*Veintiún sonetos de Sor Juana y su casuística del amor*](http://www.cervantesvirtual.com/obra-visor/veintin-sonetos-de-sor-juana-y-su-casustica-del-amor-0/html/30ed4dee-44ae-438c-8caa-9327ca1791ee_8.html#I_0_), de la crítica cubano-americana Georgina Sabat de Rivers.
 
 # Semana 11
 
