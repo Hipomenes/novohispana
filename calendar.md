@@ -11,23 +11,23 @@ subtitle: Spring 2021
 |     I | 01/26 | Introducción | | |
 |       | 01/28 | Humboldt; Eguiara y Eguren| | |
 |    II | 02/02 | León Cázares | Response |  |
-|       | 02/04 | Cervantes de Salazar; Balbuena  | Annotation | Keywords: ___  & ___ |
+|       | 02/04 | Cervantes de Salazar; Balbuena  | Annotation |  |
 | III   | 02/09 | Chimalpahin; Vallen; biombo | 1st | |
 |       | 02/11 | Sigüeza y Góngora | |  |
 |  IV   | 02/16 | **No hay clase** | | |
 |       | 02/18 | Video; Lafaye; Orellana | | Presentación: Sara |
 | V     | 02/23 | Villancicos y Villancicos musicalizados |  | |
-|       | 02/25 | Gruzinski | 2nd | Presentación____ |
+|       | 02/25 | Gruzinski | 2nd |  |
 | VI    | 03/02 | Muriel o Gomar| | |
-|       | 03/04 | Hagiografías | | Presentación____ |
+|       | 03/04 | Hagiografías | | |
 | VII*  | 03/09 | | 3rd | Open Week |
-|       | 03/11 | | | Presentación____ |
+|       | 03/11 | | | |
 | VIII  | 03/16 | | | |
 |       | 03/18 | **No class**   Wellness Day|
-|  IX   | 03/23 | | 4rd | |
+|  IX   | 03/23 | |  | |
 |       | 03/25 | | | Presentación____ |
-| X     | 03/30 | | | |
-|       | 04/01 | | | Presentación____ |
+| X     | 03/30 |Sor Juana (y Glantz) | | |
+|       | 04/01 | Sabat de Rivers | | Presentación____ |
 | XI    | 04/06 | | 5th | |
 |       | 04/08 | | | Presentación____ |
 | XII   | 04/13 | | | |
