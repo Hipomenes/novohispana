@@ -25,7 +25,7 @@ subtitle: Spring 2021
 | VIII  | 03/16 | | | |
 |       | 03/18 | **No class**   Wellness Day|
 |  IX   | 03/23 | |  | |
-|       | 03/25 | | | Presentación____ |
+|       | 03/25 | | | |
 | X     | 03/30 |Sor Juana (y Glantz) | | |
 |       | 04/01 | Sabat de Rivers | | |
 | XI    | 04/06 | | 4th | |
@@ -34,5 +34,5 @@ subtitle: Spring 2021
 |       | 04/15 | | 5th |  |
 |  XIII | 04/20 | |  | |
 |       | 04/22 | |  |  |
-|  XIV  | 04/27 | | Taller de trabajo final I  | |
-|       | 04/29 | | Taller de trabajo final II | |
+|  XIV  | 04/27 | | Presentaciones de trabajo final I  | |
+|       | 04/29 | | Presentaciones de trabajo final II | |
