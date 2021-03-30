@@ -27,12 +27,12 @@ subtitle: Spring 2021
 |  IX   | 03/23 | |  | |
 |       | 03/25 | | | Presentación____ |
 | X     | 03/30 |Sor Juana (y Glantz) | | |
-|       | 04/01 | Sabat de Rivers | | Presentación____ |
-| XI    | 04/06 | | 5th | |
-|       | 04/08 | | | Presentación____ |
+|       | 04/01 | Sabat de Rivers | | |
+| XI    | 04/06 | | 4th | |
+|       | 04/08 | | | |
 | XII   | 04/13 | | | |
-|       | 04/15 | | | Presentación____ |
-|  XIII | 04/20 | | 6th | |
-|       | 04/22 | |  | Presentación____ |
-|  XIV  | 04/27 | | Final Paper Workshop  | |
-|       | 04/29 | | | |
+|       | 04/15 | | 5th |  |
+|  XIII | 04/20 | |  | |
+|       | 04/22 | |  |  |
+|  XIV  | 04/27 | | Final Paper Workshop I  | |
+|       | 04/29 | | Final Paper Workshop II | |
