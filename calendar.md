@@ -30,9 +30,9 @@ subtitle: Spring 2021
 |       | 04/01 | Sabat de Rivers | | |
 | XI    | 04/06 | | 4th | |
 |       | 04/08 | | | |
-| XII   | 04/13 | | | |
+| XII   | 04/13 | | | **Idea trabajo final** |
 |       | 04/15 | | 5th |  |
 |  XIII | 04/20 | |  | |
 |       | 04/22 | |  |  |
-|  XIV  | 04/27 | | Final Paper Workshop I  | |
-|       | 04/29 | | Final Paper Workshop II | |
+|  XIV  | 04/27 | | Taller de trabajo final I  | |
+|       | 04/29 | | Taller de trabajo final II | |
