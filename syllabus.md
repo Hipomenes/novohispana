@@ -102,7 +102,7 @@ Esta semana está dedicada a la poesía amorosa de Sor Juana. Comenzaremos leyen
 ## "No hizo cosa igual con ninguna otra nación"
 
 Esta semana estudiaremos uno de los fenómenos más característicos de la vida cultural de la Nueva España, y cuyas consecuencias llegan hasta el día de hoy: el guadalupanismo. Para ello, leeremos  de los textos fundacionales del culto          guadalupano, centrado en la veneración de una imagen pretendidamente milagrosa, así como una selección de obras literarias de tema guadalupano. En la primera sesión, leeremos el famoso [*Nican Mopohua*](https://drive.google.com/file/d/1mF3EvU5Dwmaqrbhw9__YxZRd4_onvzk0/view?usp=sharing) (págs. 11-35 del PDF), el relato náhuatl sobre las apariciones de la Virgen en el Cerro del Tepeyac.
-En la segunda sesión tornamos nuestra atención a la poesía y la imagen. [Leeremos]() dos cálebres sonetos guadalupanos de Luis Sandoval de Zapata y Sor Juana Inés de la Cruz, así como algunas pinturas de tema guadalupano.
+En la segunda sesión tornamos nuestra atención a la poesía y la imagen. [Leeremos](https://drive.google.com/file/d/1amT3u7Cxih8QCX43Of6H1cTa9dCiCdvG/view?usp=sharing) dos cálebres sonetos guadalupanos de Luis Sandoval de Zapata y Sor Juana Inés de la Cruz, así como algunas pinturas de tema guadalupano.
 
 # Semana 13
 
