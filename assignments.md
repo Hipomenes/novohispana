@@ -43,5 +43,12 @@ El objetivo de esta composición es reflexionar sobre las profundidad histórica
 
 4. No olvides ponerle un título a tu composición, escribir tu nombre, y añadir el *word count*.
 
+# Tercera Composición
 
+(Reporte sobre los documentales de tema novohispano).
 
+# Cuarta Composición
+
+En esta ocasión, debes escribir un análisis literario o *close reading*. (Para ello, por favor consulta primero alguna de estas guías: ["Notes on Close Reading"](https://drive.google.com/file/d/1LUr8_rCby7gGPWNbtF5unm52hr5_KoLr/view?usp=sharing); ["How to Do a Close Reading"](https://drive.google.com/file/d/1fTVtJ3V1ghALOeWAGlDq7ZxT9qWCnlpx/view?usp=sharing) o ["Close Reading"](https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_about_fiction/index.html).) Comienza por seleccionar alguno de los textos poéticos que hemos leído, incluyendo las loas y los sonetos de Sor Juana. Si se trata de un texto extenso, como las loas, selecciona un pasaje sugerente, enigmático o rico en términos o ideas que puedan desarrllarse. A continuación, has un análisis del poema tanto a nivel retórico y poético, como de ideas. Organiza tu análisis como un ensayo, pero haciend referencias puntuales a términos, frases o versos. 
+
+Extensión: 750-900 palabras. 
