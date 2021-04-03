@@ -99,9 +99,10 @@ Esta semana está dedicada a la poesía amorosa de Sor Juana. Comenzaremos leyen
 
 # Semana 11
 
-## Primavera inmortal indiana 
+## "No hizo cosa igual con ninguna otra nación"
 
-Estudiaremos una de las primeras novelas escritas y publicadas en la América española: [*Los sirgueros de la virgen sin origina pecado*](), de criollo novohispano Francisco Bramón, publicada en México en 1620. Se trata de una obra compleja, que combina los géneros el relato novelado, la poesía pastoril, el teatro sacro y el ensayo. En la novela, un grupo de pastores y pastoras organiza las festividades para la celebración en honor de la Virgen María, en particular el misterio de su inmaculada concepción--- doctrina en plena afirmación política y religiosa en la monarquía hispánica del periodo. En *Los sirgueros*, además de poesía, la celebración toma la forma de un auto sacramental---obra de teatro dentro de una novela. Para adentrarnos en la estética bucólica de la novela, en la primera sesión leeremos el célebre capítulo VI de [*Grandeza mexicana*](), titulado *Primavera inmortal y sus indicios*, una celebración de la naturaleza mexicana. En la segunda sesión entraremos de lleno en *Los sirgueros*.
+Esta semana estudiaremos uno de los fenómenos más característicos de la vida cultural de la Nueva España, y cuyas consecuencias llegan hasta el día de hoy: el guadalupanismo. Para ello, leeremos  de los textos fundacionales del culto          guadalupano, centrado en la veneración de una imagen pretendidamente milagrosa, así como una selección de obras literarias de tema guadalupano. En la primera sesión, leeremos el famoso [*Nican Mopohua*](https://drive.google.com/file/d/1mF3EvU5Dwmaqrbhw9__YxZRd4_onvzk0/view?usp=sharing) (págs. 11-35 del PDF), el relato náhuatl sobre las apariciones de la Virgen en el Cerro del Tepeyac.
+En la segunda sesión tornamos nuestra atención a la poesía y la imagen. [Leeremos]() dos cálebres sonetos guadalupanos de Luis Sandoval de Zapata y Sor Juana Inés de la Cruz, así como algunas pinturas de tema guadalupano.
 
 # Semana 13
 
