@@ -31,8 +31,8 @@ subtitle: Spring 2021
 | XI    | 04/06 | Nican Mopohua | | |
 |       | 04/08 | Pinturas y poemas | | 4th |
 | XII   | 04/13 | | | **Idea trabajo final** |
-|       | 04/15 | | 5th |  |
-|  XIII | 04/20 | |  | |
+|       | 04/15 | | |  |
+|  XIII | 04/20 | | 5th | |
 |       | 04/22 | |  |  |
 |  XIV  | 04/27 | | Presentaciones de trabajo final I  | |
 |       | 04/29 | | Presentaciones de trabajo final II | |
