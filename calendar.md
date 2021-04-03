@@ -28,8 +28,8 @@ subtitle: Spring 2021
 |       | 03/25 | | | |
 | X     | 03/30 |Sor Juana (y Glantz) | | |
 |       | 04/01 | Sabat de Rivers | | |
-| XI    | 04/06 | | 4th | |
-|       | 04/08 | | | |
+| XI    | 04/06 | Nican Mopohua | | |
+|       | 04/08 | Pinturas y poemas | | 4th |
 | XII   | 04/13 | | | **Idea trabajo final** |
 |       | 04/15 | | 5th |  |
 |  XIII | 04/20 | |  | |
