@@ -101,8 +101,14 @@ Esta semana está dedicada a la poesía amorosa de Sor Juana. Comenzaremos leyen
 
 ## "No hizo cosa igual con ninguna otra nación"
 
-Esta semana estudiaremos uno de los fenómenos más característicos de la vida cultural de la Nueva España, y cuyas consecuencias llegan hasta el día de hoy: el guadalupanismo. Para ello, leeremos  de los textos fundacionales del culto          guadalupano, centrado en la veneración de una imagen pretendidamente milagrosa, así como una selección de obras literarias de tema guadalupano. En la primera sesión, leeremos el famoso [*Nican Mopohua*](https://drive.google.com/file/d/1mF3EvU5Dwmaqrbhw9__YxZRd4_onvzk0/view?usp=sharing) (págs. 11-35 del PDF), el relato náhuatl sobre las apariciones de la Virgen en el Cerro del Tepeyac.
+Esta semana estudiaremos uno de los fenómenos más característicos de la vida cultural de la Nueva España, y cuyas consecuencias llegan hasta el día de hoy: el guadalupanismo. Para ello, leeremos  de los textos fundacionales del culto guadalupano, centrado en la veneración de una imagen pretendidamente milagrosa, así como una selección de obras literarias de tema guadalupano. En la primera sesión, leeremos el famoso [*Nican Mopohua*](https://drive.google.com/file/d/1mF3EvU5Dwmaqrbhw9__YxZRd4_onvzk0/view?usp=sharing) (págs. 11-35 del PDF), el relato náhuatl sobre las apariciones de la Virgen en el Cerro del Tepeyac.
 En la segunda sesión tornamos nuestra atención a la poesía y la imagen. [Leeremos](https://drive.google.com/file/d/1amT3u7Cxih8QCX43Of6H1cTa9dCiCdvG/view?usp=sharing) dos cálebres sonetos guadalupanos de Luis Sandoval de Zapata y Sor Juana Inés de la Cruz, así como algunas pinturas de tema guadalupano.
+
+# Semana 12
+
+## La Respuesta a Sor Filotea
+
+Dedicaremos esta semana a estudiar un texto singular: la ["Respuesta de la poetiza [ie. Sor Juana] a la Ilustre Sor Filotea de la Cruz"](https://drive.google.com/file/d/1xM81wyjqSvMivw2GaBot_mkpv_laF239/view?usp=sharing). En esta carta, Sor Juana responde a las objeciones que el obispo de Puebla, Manuel Fernández de Santa Cruz, firmando bajo el seudónimo de Sor Filotea, hiciera a su vida de estudio. Al defender su inclinación natural por el saber, Sor Juana escribió una de las primeras autobiografías intelectuales conocidas, así como una poderosa defensa de la búsqueda del conocimiento en un contexto de rigor religioso. Para esta semana, leeremos una versión abreviada de la carta: para la primera sesión, lee la primera mitad del texto; para la segunda sesión, el resto. Si no lo has hecho, vale mucho la pena ver este episodio de [México en la obra de Octavio Paz](https://youtu.be/MNnZpVsPYiE), dedicada a Sor Juana y su relación con la Iglesia. 
 
 # Semana 13
 
