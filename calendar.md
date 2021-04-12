@@ -33,6 +33,6 @@ subtitle: Spring 2021
 | XII   | 04/13 | Respuesta I | | **Idea trabajo final** |
 |       | 04/15 | Respuesta II | |  |
 |  XIII | 04/20 | Baile de San Juan | 5th | |
-|       | 04/22 | *No hay clase* |  |  |
+|       | 04/22 | **Día de estudio** |  |  |
 |  XIV  | 04/27 | | Presentaciones de trabajo final I  | |
 |       | 04/29 | | Presentaciones de trabajo final II | |
