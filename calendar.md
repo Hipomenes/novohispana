@@ -30,9 +30,9 @@ subtitle: Spring 2021
 |       | 04/01 | Sabat de Rivers | | |
 | XI    | 04/06 | Nican Mopohua | | |
 |       | 04/08 | Pinturas y poemas | | 4th |
-| XII   | 04/13 | Respuesta I | | **Idea trabajo final** |
+| XII   | 04/13 | Respuesta I | |  |
 |       | 04/15 | Respuesta II | |  |
-|  XIII | 04/20 | Baile de San Juan | 5th | |
+|  XIII | 04/20 | Fray Servando |  | **Idea trabajo final** |
 |       | 04/22 | **Día de estudio** |  |  |
 |  XIV  | 04/27 | | Presentaciones de trabajo final I  | |
 |       | 04/29 | | Presentaciones de trabajo final II | |
