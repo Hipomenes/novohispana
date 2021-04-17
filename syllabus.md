@@ -112,13 +112,13 @@ Dedicaremos esta semana a estudiar un texto singular: la ["Respuesta de la poeti
 
 # Semana 13
 
-## Carne, muerte, carnaval
+## Teología criolla y emancipación política
 
-Concluimos nuestro panorama literario con una obra singular, publicada en la víspera de la Independencia: [*La portentosa vida de la muerte emperatriz de los sepulcros*](), escrita por fray Joaquín Bolaños y publicada en México en 1792. (Empezamos por leer la breve reseña de [Antuñano Maurer](https://www.revistadelauniversidad.mx/articles/de3214a6-4d78-4f72-a3dc-2c1ab062f35c/la-portentosa-vida-de-la-muerte).) La obra de Bolaños retoma el antiguo ánimo moralizante en torno a la muerte, pero al personificarla e involucrarla en diversos cómicos enredos, produce uno de los libros más singulares escritos en Nueva España. Pondremos especial atención en la serie de 18 grabados de Francisco Agüera Bustamante que ilustran la obra, y que anuncia la gráfica popular del México moderno, y en la segunda sesión leeremos las duras críticas que la obra sucitara de parte del sabio ilustrado José Antonio Alzate en la [*Gaceta de México*](), una de las primeras publicaciones científicas de México.
+Esta semana leeremos un famoso sermón que conjuga la imaginación (algunos dirán "delirio") teológico con la reflexión política. Se trata del ["Sermón de 12 de diciembre de 1794"](https://drive.google.com/file/d/14G_LI43ZziIPu5Lfw3c4mQJRddZMrUus/view?usp=sharing), dictado por Fray Servando Teresa de Mier en la Colegiata de Guadalupe. Fray Servando, de la orden de Santo Domingo, fue uno de los tantos religiosos criollos comprometidos con la Independencia de España. El famoso sermón busca explicar y justificar una mítica proto-evangelización de México, anterior a la llegada de los españoles, con el fin velado de quitarle a España uno de los títulos de dominio sobre América, el de Evangelizadora, en busca de una justificación teológica a la Emancipación.
 
 # Semana 14
 
-## Memoria novohispana en el México moderno
+## Taller de trabajos finales
 
 Concluímos nuestro semestre reflexionando sobre el legado novohispano en el México (y ¿Estados Unidos?) moderno, un legado olvidado o expresamente surpimido de las narrativas históricas que acompañaron la formación del moderno Estado nación. Para ello, leeremos el ensayo ["Memoria, paisaje, horizonte: los jesuitas y la construcción de la nación mestiza"](http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24318862) del antropólogo e historiador Alfonso Alfaro.
 
